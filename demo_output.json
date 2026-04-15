@@ -1,0 +1,729 @@
+[
+  {
+    "chunk_id": "8d84cf7c-dee6-482e-a209-8f7cea056f8d",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "diagnosis",
+    "title": "Диагностика: Наджелудочковая тахикардия",
+    "content": "**Обязательная:**\n- Биохимическое исследование крови: определение концентрации калия, магния, холестерина\n- ЭКГ в 12-ти отведениях\n- Консультация врача-кардиолога\n- Холтеровское мониторирование (ХМ)\n- Эхо-КГ\n\n**Дополнительная (по показаниям):**\n- ЧПЭФИ\n- ФГДС\n- Гормоны щитовидной железы (ТТГ, Т4 свободный)\n- Липидограмма\n\n###",
+    "medications": [],
+    "procedures": [
+      "****",
+      "- Биохимическое исследование крови: определение концентрации калия, магния, холестерина",
+      "- ЭКГ в 12-ти отведениях",
+      "- Консультация врача-кардиолога",
+      "- Холтеровское мониторирование (ХМ)",
+      "- Эхо-КГ",
+      "** (по показаниям):**",
+      "- ЧПЭФИ",
+      "- ФГДС",
+      "- Гормоны щитовидной железы (ТТГ, Т4 свободный)",
+      "- Липидограмма"
+    ],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "f241ca8a-bc73-45d0-a7b9-9174a504db02",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "emergency",
+    "title": "Купирование приступа: Наджелудочковая тахикардия",
+    "content": "1. Вагусные приемы\n2. Верапамил 0,25% раствор 2-4 мл (5-10 мг) внутривенно медленно\n3. Метопролол 0,1% раствор - первоначально 2,5-5 мл (2,5-5,0 мг) внутривенно, при необходимости повторить до 20 мг\n4. Прокаинамид 500-1000 мг внутривенно капельно\n5. Пропафенон 0,5-1 мг/кг внутривенно за 10-20 минут\n6. Трифосаденин 1% раствор 1-2 мл (10-20 мг) внутривенно (противопоказан при остром коронарном синдроме и бронхиальной астме)\n7. Аденозин 6 мг внутривенно болюсом, при неэффективности - 12 мг (противопоказан при ОКС и бронхиальной астме)\n8. Амиодарон 300 мг внутривенно при неэффективности\n9. Электроимпульсная терапия (ЭИТ) 50-360 Дж\n\n###",
+    "medications": [
+      {
+        "name": "Пропафенон",
+        "dosage": "0,5-1",
+        "unit": "мг"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [
+      "остром коронарном синдроме",
+      "бронхиальной астме)\n7",
+      "бронхиальной астме)\n8"
+    ],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "3ba5868f-d46f-4b14-b0f5-1c21592fd7a5",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "prophylaxis",
+    "title": "Профилактика: Наджелудочковая тахикардия",
+    "content": "(под контролем QT)\n4. Пропафенон 450-600 мг/сут (при отсутствии структурной патологии сердца)\n5. Этацизин 150-200 мг/сут\n6. Верапамил 120-360 мг/сут\n7. Амиодарон 100-400 мг/сут (при неэффективности, требует контроля функции щитовидной железы, печени, легких)",
+    "medications": [],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "adc10bfa-ecbd-4270-a098-0ed731e34874",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "холестерина\n- ЭКГ в:  внутрь",
+    "content": "холестерина\n- ЭКГ в 12  внутрь",
+    "medications": [
+      {
+        "name": "холестерина\n- ЭКГ в",
+        "dosage_form": "12",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "6f5cc336-c83d-4c67-8dfd-7ac24bc8da0f",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Купирование приступа:  внутрь",
+    "content": "Купирование приступа 1  внутрь",
+    "medications": [
+      {
+        "name": "Купирование приступа",
+        "dosage_form": "1",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "82b51176-6bb4-4044-8929-69335bab0a1f",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Вагусные приемы:  внутрь",
+    "content": "Вагусные приемы 2  внутрь",
+    "medications": [
+      {
+        "name": "Вагусные приемы",
+        "dosage_form": "2",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "c149c55c-67c7-452b-9fe4-c85090588029",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Верапамил:  внутрь",
+    "content": "Верапамил 0,25% раствор 2  внутрь",
+    "medications": [
+      {
+        "name": "Верапамил",
+        "dosage_form": "0,25% раствор 2",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "8020c4dd-4bf5-49bb-9a70-c1bc8a443a7f",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "внутривенно медленно:  внутрь",
+    "content": "внутривенно медленно 3  внутрь",
+    "medications": [
+      {
+        "name": "внутривенно медленно",
+        "dosage_form": "3",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "d7f23dfb-c956-4132-b1eb-3db6a7a946c0",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Метопролол:  внутрь",
+    "content": "Метопролол 0,1% раствор  внутрь",
+    "medications": [
+      {
+        "name": "Метопролол",
+        "dosage_form": "0,1% раствор",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "607c88d8-318f-4a97-8e50-bf2c5d9e9677",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "первоначально:  внутрь",
+    "content": "первоначально 2,5  внутрь",
+    "medications": [
+      {
+        "name": "первоначально",
+        "dosage_form": "2,5",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "4581c8f9-7b93-4818-bb5d-55c31ba9185d",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "при необходимости повторить до:  внутрь",
+    "content": "при необходимости повторить до 20  внутрь",
+    "medications": [
+      {
+        "name": "при необходимости повторить до",
+        "dosage_form": "20",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "f6246e65-37ba-4d9d-8ac8-c95b1012af38",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Прокаинамид:  внутрь",
+    "content": "Прокаинамид 500  внутрь",
+    "medications": [
+      {
+        "name": "Прокаинамид",
+        "dosage_form": "500",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "798442c5-8c1b-4570-9e7e-b25843c46330",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "мг внутривенно капельно:  внутрь",
+    "content": "мг внутривенно капельно 5  внутрь",
+    "medications": [
+      {
+        "name": "мг внутривенно капельно",
+        "dosage_form": "5",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "2715781e-abf7-4208-882c-4e22aa3aeb1f",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Пропафенон:  внутрь",
+    "content": "Пропафенон 0,5  внутрь",
+    "medications": [
+      {
+        "name": "Пропафенон",
+        "dosage_form": "0,5",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "267a097d-1157-482d-a64a-3a727e09a4d0",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "кг внутривенно за:  внутрь",
+    "content": "кг внутривенно за 10  внутрь",
+    "medications": [
+      {
+        "name": "кг внутривенно за",
+        "dosage_form": "10",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "c2304a19-4984-44e2-a1ed-b6dea79279ed",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "минут:  внутрь",
+    "content": "минут 6  внутрь",
+    "medications": [
+      {
+        "name": "минут",
+        "dosage_form": "6",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "e6cde4e3-64cf-4c1f-99f3-a54b72d46e7b",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Трифосаденин:  внутрь",
+    "content": "Трифосаденин 1% раствор 1  внутрь",
+    "medications": [
+      {
+        "name": "Трифосаденин",
+        "dosage_form": "1% раствор 1",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "0fc23f92-36ed-423f-8f3c-abd58b44488f",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Аденозин:  внутрь",
+    "content": "Аденозин 6  внутрь",
+    "medications": [
+      {
+        "name": "Аденозин",
+        "dosage_form": "6",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "ce2f7a28-e4a9-4dbd-b020-8976b9fb3abc",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "при неэффективности -:  внутрь",
+    "content": "при неэффективности - 12  внутрь",
+    "medications": [
+      {
+        "name": "при неэффективности -",
+        "dosage_form": "12",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "3c0aa866-5fb0-4c07-b816-c215c25eede0",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Амиодарон:  внутрь",
+    "content": "Амиодарон 300  внутрь",
+    "medications": [
+      {
+        "name": "Амиодарон",
+        "dosage_form": "300",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "42921903-793b-4a57-b2c4-ba69288de690",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "мг внутривенно при неэффективности:  внутрь",
+    "content": "мг внутривенно при неэффективности 9  внутрь",
+    "medications": [
+      {
+        "name": "мг внутривенно при неэффективности",
+        "dosage_form": "9",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "1d12b47b-617f-4f47-b769-bce132fd93fd",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Профилактика приступов:  внутрь",
+    "content": "Профилактика приступов 1  внутрь",
+    "medications": [
+      {
+        "name": "Профилактика приступов",
+        "dosage_form": "1",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "e5b35560-e152-4041-8208-fbbfaf64c438",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Метопролол:  внутрь",
+    "content": "Метопролол 25  внутрь",
+    "medications": [
+      {
+        "name": "Метопролол",
+        "dosage_form": "25",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "a6f7e933-6907-486f-af89-aff96e63d6e1",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "сут:  внутрь",
+    "content": "сут 2  внутрь",
+    "medications": [
+      {
+        "name": "сут",
+        "dosage_form": "2",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "17932ee2-c4fc-4c34-a1db-2c62596fc47b",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Бисопролол:  внутрь",
+    "content": "Бисопролол 2,5  внутрь",
+    "medications": [
+      {
+        "name": "Бисопролол",
+        "dosage_form": "2,5",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "1cf6a0a1-0c38-44e7-bf38-593534b16de4",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "сут:  внутрь",
+    "content": "сут 3  внутрь",
+    "medications": [
+      {
+        "name": "сут",
+        "dosage_form": "3",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "82f7b4a3-b5cc-43db-b480-432072461d92",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Соталол:  внутрь",
+    "content": "Соталол 80  внутрь",
+    "medications": [
+      {
+        "name": "Соталол",
+        "dosage_form": "80",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "d668f31c-2c9a-4f76-9275-fb239624239b",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Пропафенон:  внутрь",
+    "content": "Пропафенон 450  внутрь",
+    "medications": [
+      {
+        "name": "Пропафенон",
+        "dosage_form": "450",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "cac1a84f-89f0-44c8-85f0-690c4052de10",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Этацизин:  внутрь",
+    "content": "Этацизин 150  внутрь",
+    "medications": [
+      {
+        "name": "Этацизин",
+        "dosage_form": "150",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "2edccbe6-421e-4d14-9ec6-6d927b27c70f",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "сут:  внутрь",
+    "content": "сут 6  внутрь",
+    "medications": [
+      {
+        "name": "сут",
+        "dosage_form": "6",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "4cf61315-f96a-44ef-80f0-c67dc61828da",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Верапамил:  внутрь",
+    "content": "Верапамил 120  внутрь",
+    "medications": [
+      {
+        "name": "Верапамил",
+        "dosage_form": "120",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "1609c3a6-2315-4874-b67f-ceddd3f327de",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "сут:  внутрь",
+    "content": "сут 7  внутрь",
+    "medications": [
+      {
+        "name": "сут",
+        "dosage_form": "7",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  },
+  {
+    "chunk_id": "82da4a14-dc7e-4283-9bad-1323fec09ff1",
+    "diagnosis": "Наджелудочковая тахикардия",
+    "icd_code": "I47.1",
+    "section_type": "treatment",
+    "title": "Амиодарон:  внутрь",
+    "content": "Амиодарон 100  внутрь",
+    "medications": [
+      {
+        "name": "Амиодарон",
+        "dosage_form": "100",
+        "dosage": "",
+        "route": "внутрь"
+      }
+    ],
+    "procedures": [],
+    "contraindications": [],
+    "indications": [],
+    "monitoring": [],
+    "source_file": "demo_protocol",
+    "source_page": 0
+  }
+]

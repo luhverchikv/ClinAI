@@ -1,0 +1,8 @@
+pdfplumber>=0.10.0
+Pillow>=9.0.0
+pytesseract>=0.3.10
+easyocr>=1.7.0
+# Для опциональных функций:
+# openai>=1.0.0  # Для генерации эмбеддингов
+# pinecone-client>=3.0.0  # Для Pinecone
+# chromadb>=0.4.0  # Для ChromaDB
