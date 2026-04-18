@@ -1,0 +1,40 @@
+# Обязательные поля в YAML frontmatter
+required_fields:
+  - id
+  - diagnosis
+  - icd10_code
+  - protocol_name
+  - status
+
+# Поля, которые могут быть пустыми (но должны присутствовать)
+optional_fields:
+  - protocol_number
+  - publish_date
+  - official_url
+  - verification_status
+
+# Правила валидации
+validation_rules:
+  icd10_code:
+    pattern: "^[A-Z]\\d{2}(\\.\\d+)?$"  # Формат МКБ-10
+    unique: true                         # Уникальность в базе
+  status:
+    allowed_values: ["active", "archived", "draft"]
+  tags:
+    type: list
+    max_items: 10
+  id:
+    must_match_icd10: true  # Поле id должно совпадать с icd10_code
+
+# Секции Markdown, которые должны присутствовать
+required_sections:
+  - "📋 Общая информация"
+  - "🔍 Диагностика"
+  - "💊 Лечение"
+
+# Настройки отчёта
+report:
+  output_path: "logs/validation_report.json"
+  log_level: "INFO"
+  fail_on_critical: true  # Останавливать пайплайн при критических ошибках
+
