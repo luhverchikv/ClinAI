@@ -24,92 +24,7 @@
         "hierarchy_path": "📋 Общая информация",
         "content": "Диагноз: Другая и неуточнённая преждевременная деполяризация (экстрасистолия) Код МКБ-10: I49.4 Протокол: Клинический протокол диагностики и лечения тахикардии и нарушений проводимости Раздел/Глава: Раздел 2 (амбулаторные условия) / Раздел 3 (стационарные условия) Номер протокола: № 59 Дата: 06.06.2017 Статус: Действует ---",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "Другая",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "неуточнённая преждевременная деполяризация",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Код МКБ-",
-            "dosage": "10",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Клинический протокол диагностики",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "лечения тахикардии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "нарушений проводимости",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Раздел",
-            "dosage": "2",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "амбулаторные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Раздел",
-            "dosage": "3",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "стационарные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Номер",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Действует",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Диагноз"
         ],
@@ -120,15 +35,15 @@
         "risk_level": null,
         "char_count": 325,
         "token_estimate": 81,
-        "created_at": "2026-04-18T15:48:30.255864"
+        "created_at": "2026-04-18T17:25:54.323720"
       }
     },
     {
-      "id": "I49.4-other-ab3d5bbb6037",
+      "id": "I49.4-diagnostics-3871df8e6afc",
       "vector_metadata": {
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "tags": [
           "кардиология",
           "аритмия"
@@ -136,87 +51,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I49.4-other-ab3d5bbb6037",
+        "chunk_id": "I49.4-diagnostics-3871df8e6afc",
         "source_file": "I49.4.md",
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "subsection": "Обязательное обследование",
         "hierarchy_path": "Обязательное обследование",
         "content": "- Биохимическое исследование крови: определение концентрации калия, магния - ЭКГ в 12 отведениях - Консультация врача-кардиолога (при экстрасистолах высоких градаций) - Холтеровское мониторирование (ХМ)* - Эхо-КГ",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "Биохимическое исследование",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "определение концентрации калия",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "магния",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭКГ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "отведениях",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Консультация врача-кардиолога",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "при экстрасистолах высоких",
-            "dosage": "г",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Холтеровское мониторирование",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Эхо",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Биохимическое",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -225,15 +69,15 @@
         "risk_level": null,
         "char_count": 212,
         "token_estimate": 53,
-        "created_at": "2026-04-18T15:48:30.256301"
+        "created_at": "2026-04-18T17:25:54.324156"
       }
     },
     {
-      "id": "I49.4-other-6d5ae719c049",
+      "id": "I49.4-diagnostics-b412cd5e30d2",
       "vector_metadata": {
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "tags": [
           "кардиология",
           "аритмия"
@@ -241,185 +85,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I49.4-other-6d5ae719c049",
+        "chunk_id": "I49.4-diagnostics-b412cd5e30d2",
         "source_file": "I49.4.md",
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "subsection": "Дополнительное обследование (по показаниям)",
         "hierarchy_path": "Дополнительное обследование (по показаниям)",
         "content": "- Гормоны щитовидной железы (ТТГ, Т4 свободный) - При наличии частой симптоматичной желудочковой экстрасистолии (особенно в сочетании с пароксизмами желудочковой тахикардии) – консультация врача-кардиолога городского/областного кардиодиспансера/РНПЦ «Кардиология» для решения вопроса о проведении внутрисердечного ЭФИ/аблации источника нарушений ритма сердца Кратность/Периодичность: Исходно и по показаниям, но не реже 1 раза в год. Особые условия: При частой симптомной монотопной желудочковой экстрасистолии, особенно из области выносящих трактов ПЖ/ЛЖ – направление на внутрисердечное ЭФИ и аблацию источника аритмии*. ---",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "Гормоны щитовидной железы",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ТТГ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "При наличии частой симптоматичной желудочковой экстрасистолии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "особенно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сочетании",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "пароксизмами желудочковой",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "консультация врача-кардиолога",
-            "dosage": "г",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "областного",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "РНПЦ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "для решения вопроса",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "проведении внутрисердечного",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "аблации источника нарушений ритма сердца",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Исходно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по показаниям",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "но не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "раза",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "год",
-            "dosage": ".",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Особые",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "При частой симптомной монотопной желудочковой экстрасистолии",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "особенно из области выносящих трактов",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "направление на внутрисердечное ЭФИ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "аблацию источника",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Гормоны",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -428,15 +103,15 @@
         "risk_level": null,
         "char_count": 626,
         "token_estimate": 156,
-        "created_at": "2026-04-18T15:48:30.257332"
+        "created_at": "2026-04-18T17:25:54.325004"
       }
     },
     {
-      "id": "I49.4-other-1b0ee8fa168d",
+      "id": "I49.4-treatment-5aa4bf97ffe0",
       "vector_metadata": {
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "treatment",
         "tags": [
           "кардиология",
           "аритмия"
@@ -444,192 +119,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I49.4-other-1b0ee8fa168d",
+        "chunk_id": "I49.4-treatment-5aa4bf97ffe0",
         "source_file": "I49.4.md",
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "treatment",
         "subsection": "Профилактика / Поддерживающая терапия",
         "hierarchy_path": "Профилактика / Поддерживающая терапия",
         "content": "Цели: Уменьшение суточного числа экстрасистол в 3 и более раз, устранение экстрасистол высоких градаций, лечение основного заболевания. Препараты выбора (в зависимости от наличия структурной патологии): 1. Бета-блокаторы (препараты первой линии): - Метопролол 25–200 мг/сут внутрь - Бисопролол 2,5–10 мг/сут внутрь - Бетаксолол 5–40 мг/сут внутрь - Пропранолол 40–120 мг/сут внутрь 2. Соталол 80–320 мг/сут внутрь под контролем интервала QT 3. *Препараты класса 1С (только при отсутствии структурной патологии сердца\\):* - Пропафенон – по 150 мг до 3 раз/сут (по потребности) - Этацизин – по 50 мг до 3 раз/сут (по потребности) 4.",
         "content_type": "algorithm",
-        "medications": [
-          {
-            "name": "Уменьшение суточного числа экстрасистол",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "более раз",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "устранение экстрасистол высоких градаций",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "лечение основного заболевания",
-            "dosage": ".",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Препараты выбора",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "зависимости от наличия структурной",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Бета-блокаторы",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "препараты первой",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Метопролол",
-            "dosage": "25",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут внутрь",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Бисопролол",
-            "dosage": "2,5",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Бетаксолол",
-            "dosage": "5",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Пропранолол",
-            "dosage": "40",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут внутрь",
-            "dosage": "2.",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Соталол",
-            "dosage": "80",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут внутрь под контролем интервала",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Препараты класса",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "только при отсутствии структурной патологии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Пропафенон",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по",
-            "dosage": "150 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "до",
-            "dosage": "3",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Этацизин",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по",
-            "dosage": "50 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -638,15 +137,15 @@
         "risk_level": null,
         "char_count": 630,
         "token_estimate": 157,
-        "created_at": "2026-04-18T15:48:30.258686"
+        "created_at": "2026-04-18T17:25:54.326165"
       }
     },
     {
-      "id": "I49.4-other-ce1bd928d750",
+      "id": "I49.4-treatment-f5b9162a177a",
       "vector_metadata": {
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "treatment",
         "tags": [
           "кардиология",
           "аритмия"
@@ -654,188 +153,19 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I49.4-other-ce1bd928d750",
+        "chunk_id": "I49.4-treatment-f5b9162a177a",
         "source_file": "I49.4.md",
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "treatment",
         "subsection": "Профилактика / Поддерживающая терапия",
         "hierarchy_path": "Профилактика / Поддерживающая терапия",
         "content": "сти) - Этацизин – по 50 мг до 3 раз/сут (по потребности) 4. Комбинированная терапия (при неэффективности монотерапии): препараты 1С класса + бета-блокаторы 5. Верапамил 80–320 мг/сут внутрь (при предсердной экстрасистолии и экстрасистолии из выносящего тракта ПЖ, резистентной к указанным выше препаратам) \\ Структурная патология сердца, являющаяся противопоказанием для назначения препаратов класса 1С: перенесённый инфаркт миокарда, стенокардия, гипертрофия миокарда ЛЖ >14 мм, наличие дилатации ЛЖ и снижение ФВ <40%.",
         "content_type": "algorithm",
-        "medications": [
-          {
-            "name": "Этацизин",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "по",
-            "dosage": "50 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "до",
-            "dosage": "3",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сут",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "по",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Комбинированная терапия",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "при неэффективности",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "препараты",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "класса",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "бета-блокаторы",
-            "dosage": "5.",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Верапамил",
-            "dosage": "80",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут внутрь",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при предсердной экстрасистолии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "экстрасистолии из выносящего тракта ПЖ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "резистентной",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "указанным выше",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Структурная патология сердца",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "являющаяся противопоказанием для назначения препаратов класса",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "перенесённый инфаркт миокарда",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "стенокардия",
-            "dosage": ", г",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ипертрофия миокарда ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мм",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "наличие дилатации ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "снижение ФВ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
-          "Инфаркт",
-          "Стенокардия"
+          "Стенокардия",
+          "Инфаркт"
         ],
         "tags": [
           "кардиология",
@@ -844,15 +174,15 @@
         "risk_level": null,
         "char_count": 520,
         "token_estimate": 130,
-        "created_at": "2026-04-18T15:48:30.260046"
+        "created_at": "2026-04-18T17:25:54.326744"
       }
     },
     {
-      "id": "I49.4-other-15dcdd375775",
+      "id": "I49.4-treatment-0c2ec1b07ffa",
       "vector_metadata": {
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "treatment",
         "tags": [
           "кардиология",
           "аритмия"
@@ -860,108 +190,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I49.4-other-15dcdd375775",
+        "chunk_id": "I49.4-treatment-0c2ec1b07ffa",
         "source_file": "I49.4.md",
         "icd10_code": "I49.4",
         "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
-        "section_type": "other",
+        "section_type": "treatment",
         "subsection": "Профилактика / Поддерживающая терапия",
         "hierarchy_path": "Профилактика / Поддерживающая терапия",
         "content": "иокарда ЛЖ >14 мм, наличие дилатации ЛЖ и снижение ФВ <40%. Особые рекомендации: - При инфаркте миокарда и застойной сердечной недостаточности отдавать предпочтение бета-блокаторам - При наличии структурной патологии лекарственные средства 1С класса назначать с осторожностью и только в сочетании с бета-блокаторами ---",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "иокарда ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "мм",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "наличие дилатации ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "снижение ФВ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Особые",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "При инфаркте миокарда",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "застойной сердечной недостаточности отдавать предпочтение бета-блокаторам",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "При наличии структурной патологии лекарственные средства",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "класса назначать",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "осторожностью",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "только",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сочетании",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "бета-блокаторами",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Инфаркт"
         ],
@@ -972,7 +210,7 @@
         "risk_level": null,
         "char_count": 319,
         "token_estimate": 79,
-        "created_at": "2026-04-18T15:48:30.260702"
+        "created_at": "2026-04-18T17:25:54.327156"
       }
     },
     {
@@ -997,155 +235,7 @@
         "hierarchy_path": "👁️ Наблюдение",
         "content": "Длительность терапии: В зависимости от основной патологии. Контрольные параметры: - ЭКГ, ХМ – для оценки эффективности терапии - Биохимия крови (калий, магний) – при необходимости - Контроль интервала QT при приёме соталола и амиодарона Цели лечения: - Ремиссия - Улучшение состояния (уменьшение суточного числа экстрасистол в 3 и более раз) - Устранение экстрасистол высоких градаций Периодичность осмотров: По показаниям, но не реже 1 раза в год. ---",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "Длительность",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "зависимости от основной патологии",
-            "dosage": ".",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Контрольные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭКГ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ХМ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "для оценки эффективности терапии",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Биохимия крови",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "калий",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при необходимости",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Контроль интервала",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при приёме соталола",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "амиодарона Цели",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Ремиссия",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Улучшение состояния",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "уменьшение суточного числа экстрасистол",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "более",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Устранение экстрасистол высоких градаций Периодичность",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "По показаниям",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "но не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "раза",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "год",
-            "dosage": ". ---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -1154,7 +244,7 @@
         "risk_level": null,
         "char_count": 452,
         "token_estimate": 113,
-        "created_at": "2026-04-18T15:48:30.261623"
+        "created_at": "2026-04-18T17:25:54.327875"
       }
     },
     {
@@ -1179,134 +269,7 @@
         "hierarchy_path": "⚠️ Противопоказания и ограничения",
         "content": "- Препараты класса 1С (пропафенон, этацизин) противопоказаны при: - Перенесённом инфаркте миокарда - Стенокардии - Гипертрофии миокарда ЛЖ >14 мм - Дилатации ЛЖ и снижении ФВ <40% - Соталол требует обязательного контроля интервала QT (не выше 500 мс или увеличение не более 25% от исходного значения) - При наличии симптомной брадикардии или АВ-блокады – осторожность с назначением бета-блокаторов и верапамила ---",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "Препараты класса",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "пропафенон",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "противопоказаны",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Перенесённом инфаркте миокарда",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Стенокардии",
-            "dosage": "- Г",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ипертрофии миокарда ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "мм",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Дилатации ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "снижении ФВ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Соталол требует обязательного контроля интервала",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "не выше",
-            "dosage": "500",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мс или увеличение не более",
-            "dosage": "25%",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "от исходного",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "При наличии симптомной брадикардии или АВ-блокады",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "осторожность",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "назначением бета-блокаторов",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "верапамила",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Препараты",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Инфаркт"
         ],
@@ -1317,7 +280,7 @@
         "risk_level": null,
         "char_count": 414,
         "token_estimate": 103,
-        "created_at": "2026-04-18T15:48:30.262541"
+        "created_at": "2026-04-18T17:25:54.328503"
       }
     },
     {
@@ -1342,183 +305,7 @@
         "hierarchy_path": "📝 Примечания и сокращения",
         "content": "- ЭС — экстрасистолия; ЖТ — желудочковая тахикардия - ХМ — холтеровское мониторирование; ЭФИ — электрофизиологическое исследование - РЧА — радиочастотная аблация; ИКД — имплантируемый кардиовертер-дефибриллятор - ФВ — фракция выброса; ЛЖ/ПЖ — левый/правый желудочек - Класс 1С антиаритмиков (пропафенон, этацизин) — эффективны при отсутствии структурной патологии сердца, но обладают проаритмогенным потенциалом при органическом поражении миокарда - Аблация показана при частой симптомной монотопной желудочковой экстрасистолии, особенно из выносящих трактов, при неэффективности медикаментозной терапии --- Дата создания заметки: 2026-04-17",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "ЭС",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЖТ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "желудочковая тахикардия",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ХМ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "холтеровское",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭФИ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "электрофизиологическое исследование",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "РЧА",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "радиочастотная",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ИКД",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "имплантируемый кардиовертер-дефибриллятор",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ФВ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "фракция",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ПЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "правый желудочек",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Класс",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "антиаритмиков",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "пропафенон",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "эффективны при отсутствии структурной патологии сердца",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "но обладают проаритмогенным потенциалом при органическом поражении миокарда",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Аблация показана при частой симптомной монотопной желудочковой экстрасистолии",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "особенно из выносящих трактов",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при неэффективности медикаментозной терапии",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Дата создания",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ЭС",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Тахикардия"
         ],
@@ -1529,7 +316,7 @@
         "risk_level": null,
         "char_count": 641,
         "token_estimate": 160,
-        "created_at": "2026-04-18T15:48:30.263725"
+        "created_at": "2026-04-18T17:25:54.329457"
       }
     }
   ]

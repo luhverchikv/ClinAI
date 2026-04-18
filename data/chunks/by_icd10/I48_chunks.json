@@ -25,85 +25,7 @@
         "hierarchy_path": "📋 Общая информация",
         "content": "Диагноз: Фибрилляция и трепетание предсердий Код МКБ-10: I48 Протокол: Клинический протокол диагностики и лечения тахикардии и нарушений проводимости Раздел/Глава: Раздел 2 (амбулаторные условия) / Раздел 3 (стационарные условия) Номер протокола: № 59 Дата: 06.06.2017 Статус: Действует ---",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "Фибрилляция",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "трепетание предсердий Код МКБ-",
-            "dosage": "10",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Клинический протокол диагностики",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "лечения тахикардии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "нарушений проводимости",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Раздел",
-            "dosage": "2",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "амбулаторные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Раздел",
-            "dosage": "3",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "стационарные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Номер",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Действует",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Диагноз"
         ],
@@ -115,15 +37,15 @@
         "risk_level": null,
         "char_count": 290,
         "token_estimate": 72,
-        "created_at": "2026-04-18T15:48:30.292661"
+        "created_at": "2026-04-18T17:25:54.348624"
       }
     },
     {
-      "id": "I48-other-d2fb4f83bf97",
+      "id": "I48-diagnostics-dec4f7d2bd4b",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "tags": [
           "кардиология",
           "аритмия",
@@ -132,129 +54,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-d2fb4f83bf97",
+        "chunk_id": "I48-diagnostics-dec4f7d2bd4b",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "subsection": "Обязательное обследование",
         "hierarchy_path": "Обязательное обследование",
         "content": "- Биохимическое исследование крови: определение концентрации калия, магния, липидограмма - ЭКГ в 12 отведениях (всем пациентам исходно и перед выпиской) - ПТИ/МНО (при приеме антагонистов витамина К) - Холтеровское мониторирование (ХМ) - Эхо-КГ - Консультация врача-кардиолога при рецидивах - Оценка риска тромбоэмболии по шкале CHA₂DS₂-VASc - Оценка риска кровотечения по шкале HAS-BLED",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "Биохимическое исследование",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "определение концентрации калия",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "магния",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "липидограмма",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭКГ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "отведениях",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "всем пациентам исходно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "перед",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "МНО",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при приеме антагонистов витамина",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Холтеровское мониторирование",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Эхо-КГ",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Консультация врача-кардиолога при рецидивах",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Оценка риска тромбоэмболии по шкале",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Оценка риска кровотечения по шкале",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Биохимическое",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -264,15 +73,15 @@
         "risk_level": null,
         "char_count": 387,
         "token_estimate": 96,
-        "created_at": "2026-04-18T15:48:30.293292"
+        "created_at": "2026-04-18T17:25:54.349000"
       }
     },
     {
-      "id": "I48-other-4c7574dc833a",
+      "id": "I48-diagnostics-68100736ed62",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "tags": [
           "кардиология",
           "аритмия",
@@ -281,220 +90,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-4c7574dc833a",
+        "chunk_id": "I48-diagnostics-68100736ed62",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "subsection": "Дополнительное обследование (по показаниям)",
         "hierarchy_path": "Дополнительное обследование (по показаниям)",
         "content": "- Гормоны щитовидной железы (ТТГ, Т4 свободный) - Чреспищеводная Эхо-КГ (при подготовке к кардиоверсии, пароксизм >48 ч) - ЧПЭФИ (для дифференциальной диагностики трепетания предсердий) - ФГДС - Консультация в областном кардиодиспансере/РНПЦ «Кардиология» для решения вопроса об аблации - Спиральная КТ сердца с контрастированием (перед аблацией устьев лёгочных вен) Кратность/Периодичность: Исходно и по показаниям, но не реже 1 раза в год. МНО: исходно, на 2-е, 4-е, 6-7 сутки приёма варфарина, далее при стабильном МНО — 1 раз/нед (2 недели), затем не реже 1 раза/мес.",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "Гормоны щитовидной железы",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ТТГ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Чреспищеводная Эхо-КГ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "при подготовке",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "кардиоверсии",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "пароксизм",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЧПЭФИ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "для дифференциальной диагностики трепетания",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ФГДС",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Консультация",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "областном",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "РНПЦ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "для решения вопроса об аблации",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Спиральная КТ сердца",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "контрастированием",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "перед аблацией устьев лёгочных",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Исходно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по показаниям",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "но не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "раза",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "год",
-            "dosage": ".",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "исходно",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "на",
-            "dosage": "2-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сутки приёма варфарина",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "далее при стабильном МНО",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "нед",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "затем не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мес",
-            "dosage": ".",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Гормоны",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -504,15 +109,15 @@
         "risk_level": null,
         "char_count": 571,
         "token_estimate": 142,
-        "created_at": "2026-04-18T15:48:30.294317"
+        "created_at": "2026-04-18T17:25:54.349409"
       }
     },
     {
-      "id": "I48-other-0e747f2f02fc",
+      "id": "I48-diagnostics-3536522b3670",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "tags": [
           "кардиология",
           "аритмия",
@@ -521,73 +126,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-0e747f2f02fc",
+        "chunk_id": "I48-diagnostics-3536522b3670",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "diagnostics",
         "subsection": "Дополнительное обследование (по показаниям)",
         "hierarchy_path": "Дополнительное обследование (по показаниям)",
         "content": "льном МНО — 1 раз/нед (2 недели), затем не реже 1 раза/мес. Особые условия: При рецидивах ФП — консультация в кардиодиспансере для оптимизации фармакотерапии или решения вопроса об аблации. ---",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "льном МНО",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "нед",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "затем не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "мес",
-            "dosage": ".",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Особые",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "При рецидивах ФП",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "консультация",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "кардиодиспансере для оптимизации фармакотерапии или решения вопроса об аблации",
-            "dosage": ". ---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -597,15 +145,15 @@
         "risk_level": null,
         "char_count": 193,
         "token_estimate": 48,
-        "created_at": "2026-04-18T15:48:30.294691"
+        "created_at": "2026-04-18T17:25:54.349549"
       }
     },
     {
-      "id": "I48-other-6ed2c7732921",
+      "id": "I48-treatment_acute-eca2be26b3b5",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment_acute",
         "tags": [
           "кардиология",
           "аритмия",
@@ -614,185 +162,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-6ed2c7732921",
+        "chunk_id": "I48-treatment_acute-eca2be26b3b5",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment_acute",
         "subsection": "Купирование приступа / Острая фаза",
         "hierarchy_path": "Купирование приступа / Острая фаза",
         "content": "Стратегия зависит от длительности пароксизма: - <48 часов: кардиоверсия без длительной антикоагулянтной подготовки - >48 часов: антикоагулянтная подготовка ≥3 недель ИЛИ ЧП-Эхо-КГ для исключения тромбов Фармакологическая кардиоверсия: 1. Пропафенон 1-2 мг/кг в/в за 10 мин ИЛИ 150-450 мг внутрь однократно (+ β-блокатор) 2. Прокаинамид 10% 5-10 мл (до 17 мг/кг) в/в капельно медленно; при угрозе снижения АД — с мезатоном 3. Этацизин 50-100 мг внутрь однократно (+ β-блокатор) — при отсутствии структурной патологии 4. Амиодарон 300-450 мг в/в медленно (за 30-60 мин), затем инфузия 1 мг/мин до 1200 мг/сут ИЛИ внутрь 600-1000 мг/сут до купирования 5.",
         "content_type": "algorithm",
-        "medications": [
-          {
-            "name": "Стратегия зависит от длительности",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "кардиоверсия без длительной антикоагулянтной подготовки",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "антикоагулянтная подготовка",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "недель ИЛИ ЧП-Эхо-КГ для исключения тромбов Фармакологическая",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Пропафенон",
-            "dosage": "1-2 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "кг",
-            "dosage": "",
-            "route": "в/в",
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "за",
-            "dosage": "10",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мин ИЛИ",
-            "dosage": "150-450 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "внутрь однократно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Прокаинамид",
-            "dosage": "10%",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мл",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "до",
-            "dosage": "17 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "капельно",
-            "dosage": "ме",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при угрозе снижения АД",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мезатоном",
-            "dosage": "3.",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Этацизин",
-            "dosage": "50-100 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при отсутствии структурной патологии",
-            "dosage": "4.",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Амиодарон",
-            "dosage": "300-450 мг",
-            "route": "в/в",
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "медленно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "за",
-            "dosage": "30-60",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "затем инфузия",
-            "dosage": "1 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мин до",
-            "dosage": "1200 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут ИЛИ внутрь",
-            "dosage": "600-1000 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут до купирования",
-            "dosage": "5.",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Антикоагулянт"
         ],
@@ -804,15 +183,15 @@
         "risk_level": null,
         "char_count": 651,
         "token_estimate": 162,
-        "created_at": "2026-04-18T15:48:30.295866"
+        "created_at": "2026-04-18T17:25:54.350208"
       }
     },
     {
-      "id": "I48-other-633f5ea04287",
+      "id": "I48-treatment_acute-d4558f57efc7",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment_acute",
         "tags": [
           "кардиология",
           "аритмия",
@@ -821,185 +200,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-633f5ea04287",
+        "chunk_id": "I48-treatment_acute-d4558f57efc7",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment_acute",
         "subsection": "Купирование приступа / Острая фаза",
         "hierarchy_path": "Купирование приступа / Острая фаза",
         "content": "до 1200 мг/сут ИЛИ внутрь 600-1000 мг/сут до купирования 5. ЭИТ 100-360 Дж (при неотложных показаниях или неэффективности фармакотерапии) Контроль ЧСС (при невозможности восстановления ритма): - β-блокаторы: метопролол 2,5-5 мг в/в (1-2 мг/мин) или 25-100 мг 2 р/сут внутрь; бисопролол 2,5-10 мг/сут - Верапамил 5-10 мг в/в медленно или 120-360 мг/сут внутрь - Дигоксин 0.25 мг в/в медленно (при отсутствии WPW) - Амиодарон 150 мг в/в за 10 мин + инфузия 0,5-1 мг/мин (при ФП на фоне WPW)",
         "content_type": "algorithm",
-        "medications": [
-          {
-            "name": "до",
-            "dosage": "1200 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сут ИЛИ внутрь",
-            "dosage": "600-1000 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сут до купирования",
-            "dosage": "5.",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭИТ",
-            "dosage": "100-360",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Дж",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "при неотложных показаниях или неэффективности",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Контроль ЧСС",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при невозможности восстановления",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "метопролол",
-            "dosage": "2,5-5 мг",
-            "route": "в/в",
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "или",
-            "dosage": "25-100 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "бисопролол",
-            "dosage": "2,5-10 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Верапамил",
-            "dosage": "5-10 мг",
-            "route": "в/в",
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "медленно или",
-            "dosage": "120-360 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут внутрь",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Дигоксин",
-            "dosage": "0.25 мг",
-            "route": "в/в",
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "медленно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при отсутствии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Амиодарон",
-            "dosage": "150 мг",
-            "route": "в/в",
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "за",
-            "dosage": "10",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мин",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "инфузия",
-            "dosage": "0,5-1 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при ФП на фоне",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -1009,15 +219,15 @@
         "risk_level": null,
         "char_count": 488,
         "token_estimate": 122,
-        "created_at": "2026-04-18T15:48:30.296668"
+        "created_at": "2026-04-18T17:25:54.350453"
       }
     },
     {
-      "id": "I48-other-ab17eeceee27",
+      "id": "I48-treatment-ed54edd0c65c",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment",
         "tags": [
           "кардиология",
           "аритмия",
@@ -1026,192 +236,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-ab17eeceee27",
+        "chunk_id": "I48-treatment-ed54edd0c65c",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment",
         "subsection": "Профилактика / Поддерживающая терапия",
         "hierarchy_path": "Профилактика / Поддерживающая терапия",
         "content": "При отсутствии структурной патологии сердца: 1. Метопролол 25-200 мг/сут, бисопролол 2,5-10 мг/сут, бетаксолол 5-40 мг/сут 2. Препараты 1С класса: пропафенон 450-600 мг/сут ИЛИ этацизин 150-200 мг/сут (монотерапия или + β-блокатор) 3. Соталол 80-320 мг/сут под контролем QT (≤500 мс или ↑ не более 25% от исходного) 4. Амиодарон 100-400 мг/сут (при неэффективности вышеуказанных) под контролем функции щитовидной железы, печени, лёгких При наличии структурной патологии сердца: 1. β-блокаторы (метопролол, бисопролол, бетаксолол) 2. Соталол 80-320 мг/сут под контролем QT 3. Амиодарон 100-400 мг/сут (предпочтительно ≤200 мг/сут) 4.",
         "content_type": "algorithm",
-        "medications": [
-          {
-            "name": "При отсутствии структурной патологии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Метопролол",
-            "dosage": "25-200 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сут",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "бисопролол",
-            "dosage": "2,5-10 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "бетаксолол",
-            "dosage": "5-40 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сут",
-            "dosage": "2.",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Препараты",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "пропафенон",
-            "dosage": "450-600 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут ИЛИ этацизин",
-            "dosage": "150-200 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "монотерапия или",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Соталол",
-            "dosage": "80-320 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут под контролем",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мс или",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "не более",
-            "dosage": "25%",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "от",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Амиодарон",
-            "dosage": "100-400 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при неэффективности",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "под контролем функции щитовидной железы",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "печени",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "лёгких При наличии структурной патологии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "блокаторы",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "метопролол",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "бисопролол",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "предпочтительно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -1221,15 +255,15 @@
         "risk_level": null,
         "char_count": 632,
         "token_estimate": 158,
-        "created_at": "2026-04-18T15:48:30.297793"
+        "created_at": "2026-04-18T17:25:54.350972"
       }
     },
     {
-      "id": "I48-other-40b7296706ec",
+      "id": "I48-treatment-815670c75668",
       "vector_metadata": {
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment",
         "tags": [
           "кардиология",
           "аритмия",
@@ -1238,157 +272,16 @@
         "risk_level": null
       },
       "payload": {
-        "chunk_id": "I48-other-40b7296706ec",
+        "chunk_id": "I48-treatment-815670c75668",
         "source_file": "I48.md",
         "icd10_code": "I48",
         "diagnosis": "Фибрилляция и трепетание предсердий",
-        "section_type": "other",
+        "section_type": "treatment",
         "subsection": "Профилактика / Поддерживающая терапия",
         "hierarchy_path": "Профилактика / Поддерживающая терапия",
         "content": ". Амиодарон 100-400 мг/сут (предпочтительно ≤200 мг/сут) 4. Препараты 1С класса — только при минимальной структурной патологии и в комбинации с β-блокаторами Антикоагулянтная профилактика тромбоэмболий (по шкале CHA₂DS₂-VASc): - 0 баллов: антитромботическая терапия не требуется - ≥1 балл: - Варфарин 2,5-5 мг/сут (целевое МНО 2,0-3,0) - ИЛИ дабигатран 150 мг 2 р/сут (110 мг 2 р/сут при высоком риске кровотечений, КК 30-50 мл/мин, возрасте >80 лет) - ИЛИ ривароксабан 20 мг 1 р/сут (15 мг при высоком риске кровотечений) ---",
         "content_type": "algorithm",
-        "medications": [
-          {
-            "name": "Амиодарон",
-            "dosage": "100-400 мг",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сут",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "предпочтительно",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Препараты",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "класса",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "только при минимальной структурной патологии",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "комбинации",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "блокаторами Антикоагулянтная профилактика тромбоэмболий",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по шкале",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "антитромботическая терапия не требуется",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Варфарин",
-            "dosage": "2,5-5 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "целевое МНО",
-            "dosage": "2,0-3,0",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ИЛИ дабигатран",
-            "dosage": "150 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мг",
-            "dosage": "2",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сут при высоком риске кровотечений",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "КК",
-            "dosage": "30-50 мл",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мин",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "возрасте",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ИЛИ ривароксабан",
-            "dosage": "20 мг",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мг при высоком риске",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Антикоагулянт"
         ],
@@ -1400,7 +293,7 @@
         "risk_level": null,
         "char_count": 526,
         "token_estimate": 131,
-        "created_at": "2026-04-18T15:48:30.298441"
+        "created_at": "2026-04-18T17:25:54.351228"
       }
     },
     {
@@ -1426,274 +319,7 @@
         "hierarchy_path": "👁️ Наблюдение",
         "content": "Длительность терапии: - После купирования пароксизма — 1 месяц - Далее — в зависимости от основного заболевания - При рецидивах >1 раза/мес или постоянной ФП — постоянно - После абляции — 3 месяца, далее по показаниям Контрольные параметры: - МНО (при приёме варфарина): исходно, на 2-е/4-е/6-7 сутки, затем еженедельно 2 недели, далее ежемесячно - ЭКГ, Эхо-КГ, ХМ — по показаниям, но не реже 1 раза в год - Функция щитовидной железы, печени, лёгких, осмотр окулиста — при приёме амиодарона (не реже 1 раза в 6-12 мес) Цели лечения: - Улучшение состояния - Купирование и отсутствие рецидивов пароксизмов - Снижение риска ишемических инсультов и других тромбоэмболий ---",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "Длительность",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "После купирования пароксизма",
-            "dosage": "1 ме",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "сяц",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Далее",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "зависимости от основного заболевания",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "При рецидивах",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "мес или постоянной ФП",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "постоянно",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "После абляции",
-            "dosage": "3 ме",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сяца",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "далее по показаниям Контрольные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "МНО",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при приёме",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "исходно",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "на",
-            "dosage": "2-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "сутки",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "затем еженедельно",
-            "dosage": "2",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "недели",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "далее ежемесячно",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ЭКГ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Эхо-КГ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ХМ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "по показаниям",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "но не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "раза",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "год",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Функция щитовидной железы",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "печени",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "лёгких",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "осмотр окулиста",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при приёме амиодарона",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "не реже",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Цели",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Улучшение состояния",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Купирование",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "отсутствие рецидивов пароксизмов",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Снижение риска ишемических инсультов",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "других тромбоэмболий",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [],
         "tags": [
           "кардиология",
@@ -1703,7 +329,7 @@
         "risk_level": null,
         "char_count": 669,
         "token_estimate": 167,
-        "created_at": "2026-04-18T15:48:30.299965"
+        "created_at": "2026-04-18T17:25:54.351742"
       }
     },
     {
@@ -1729,169 +355,7 @@
         "hierarchy_path": "⚠️ Противопоказания и ограничения",
         "content": "- Препараты класса 1С (пропафенон, этацизин) противопоказаны при: - Перенесённом инфаркте миокарда - Стенокардии - Гипертрофии миокарда ЛЖ >14 мм - Дилатации ЛЖ и ФВ <40% - Аденозин/трифосаденин противопоказаны при: остром коронарном синдроме, остром ИМ, бронхиальной астме - Дигоксин противопоказан при синдроме WPW - Амиодарон: требует регулярного контроля функции щитовидной железы, печени, лёгких, офтальмологического осмотра - Соталол/амиодарон: контроль интервала QT (не выше 500 мс или увеличение ≤25% от исходного) ---",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "Препараты класса",
-            "dosage": "1",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "пропафенон",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "противопоказаны",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Перенесённом инфаркте миокарда",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "Стенокардии",
-            "dosage": "- Г",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ипертрофии миокарда ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "мм",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Дилатации ЛЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ФВ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "трифосаденин противопоказаны",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "остром коронарном синдроме",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "остром ИМ",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "бронхиальной астме",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Дигоксин противопоказан при синдроме",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "требует регулярного контроля функции щитовидной железы",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "печени",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "лёгких",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "офтальмологического осмотра",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "контроль интервала",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "не выше",
-            "dosage": "500",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "мс или увеличение",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "от",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Препараты",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Инфаркт"
         ],
@@ -1903,7 +367,7 @@
         "risk_level": null,
         "char_count": 526,
         "token_estimate": 131,
-        "created_at": "2026-04-18T15:48:30.300867"
+        "created_at": "2026-04-18T17:25:54.352156"
       }
     },
     {
@@ -1929,106 +393,7 @@
         "hierarchy_path": "📝 Примечания и сокращения",
         "content": "- ФП — фибрилляция предсердий; ТП — трепетание предсердий - ЭИТ — электроимпульсная терапия; ЧП-Эхо-КГ — чреспищеводная эхокардиография - ОАК — оральные антикоагулянты; НОАК — новые оральные антикоагулянты (дабигатран,",
         "content_type": "list",
-        "medications": [
-          {
-            "name": "ФП",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "фибрилляция",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ТП",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "трепетание предсердий",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭИТ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "электроимпульсная",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЧП-Эхо-КГ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "чреспищеводная эхокардиография",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ОАК",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "оральные",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "НОАК",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "новые оральные антикоагулянты",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "дабигатран",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ФП",
-            "dosage": null,
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:list_item"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Антикоагулянт"
         ],
@@ -2040,7 +405,7 @@
         "risk_level": null,
         "char_count": 218,
         "token_estimate": 54,
-        "created_at": "2026-04-18T15:48:30.301677"
+        "created_at": "2026-04-18T17:25:54.352436"
       }
     },
     {
@@ -2066,218 +431,7 @@
         "hierarchy_path": "📝 Примечания и сокращения",
         "content": "агулянты; НОАК — новые оральные антикоагулянты (дабигатран, ривароксабан) - РЧА — радиочастотная аблация; ЭКС — электрокардиостимулятор - ХМ — холтеровское мониторирование; ЧПЭФИ — чреспищеводное электрофизиологическое исследование - МНО — международное нормализованное отношение; ПТИ — протромбиновый индекс - ФВ — фракция выброса; ЛЖ/ПЖ — левый/правый желудочек - «Таблетка в кармане»: самостоятельный приём пропафенона/этацизина + β-блокатор пациентом при пароксизме (только после обучения и при отсутствии структурной патологии) - Кардиоверсия при ФП >48 ч: обязательна антикоагулянтная подготовка ≥3 недель ИЛИ ЧП-Эхо-КГ для исключения тромба в ЛП --- Дата создания заметки: 2026-04-17",
         "content_type": "text",
-        "medications": [
-          {
-            "name": "НОАК",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "новые оральные антикоагулянты",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "дабигатран",
-            "dosage": ",",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "РЧА",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "радиочастотная",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "ЭКС",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": null
-          },
-          {
-            "name": "электрокардиостимулятор",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ХМ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "холтеровское",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ЧПЭФИ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "чреспищеводное электрофизиологическое исследование",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "МНО",
-            "dosage": "ме",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ждународное нормализованное",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ПТИ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "протромбиновый индекс",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ФВ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "фракция",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ПЖ",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "правый желудочек",
-            "dosage": "-",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Таблетка",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "самостоятельный приём",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "этацизина",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "блокатор пациентом при пароксизме",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "только после обучения",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "при отсутствии структурной",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Кардиоверсия при ФП",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "обязательна антикоагулянтная подготовка",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "недель ИЛИ ЧП-Эхо-КГ для исключения тромба",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "ЛП",
-            "dosage": "---",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          },
-          {
-            "name": "Дата создания",
-            "dosage": "",
-            "route": null,
-            "frequency": null,
-            "notes": "extracted_via:standard"
-          }
-        ],
+        "medications": [],
         "keywords": [
           "Антикоагулянт"
         ],
@@ -2289,7 +443,7 @@
         "risk_level": null,
         "char_count": 690,
         "token_estimate": 172,
-        "created_at": "2026-04-18T15:48:30.302937"
+        "created_at": "2026-04-18T17:25:54.352898"
       }
     }
   ]
