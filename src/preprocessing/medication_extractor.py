@@ -8,26 +8,22 @@ class MedicationExtractor:
     
     # Паттерны для поиска препаратов (можно расширять)
     PATTERNS = {
-        # "Название препарата — дозировка способ"
+        # Только если перед названием есть медицинский контекст или после идёт четкая дозировка с единицами
         "standard": re.compile(
-            r'([А-ЯЁ][а-яё\-]+(?:\s+[А-ЯЁ][а-яё\-]+)*)\s*'  # Название (1-2 слова с заглавной)
-            r'—?\s*'  # тире или пробел
-            r'([\d.,\s\-]+(?:мг|мл|г|мкг|МЕ|%)?)\s*'  # Дозировка
-            r'((?:внутривенно|в/в|внутримышечно|в/м|per\s*os|подкожно|местно|ректально)?).*?',  # Способ
+            r'(?:назначают|вводят|рекомендуется|препарат|лекарство|терапия)\s+'
+            r'([А-ЯЁ][а-яё\-]{2,}(?:\s+[А-ЯЁ][а-яё\-]{2,})*)\s*'
+            r'(?:в\s+дозе\s+|—\s*|\()\s*'
+            r'([\d.,\s\-]+\s*(?:мг|мл|г|мкг|МЕ|%))',
             re.IGNORECASE
         ),
-        # "Препарат (дозировка)"
         "parentheses": re.compile(
-            r'([А-ЯЁ][а-яё\-]+)\s*\(([\d.,\s\-]+\s*(?:мг|мл|г))\)',
+            r'([А-ЯЁ][а-яё\-]{3,})\s*\(([\d.,\s\-]+\s*(?:мг|мл|г|мкг))\)',
             re.IGNORECASE
-        ),
-        # Списки: "- Название: дозировка"
-        "list_item": re.compile(
-            r'^[\-\*\+]\s*([А-ЯЁ][а-яё\-]+)\s*[:\-]?\s*([\d.,\s\-]+\s*(?:мг|мл|г|мкг))?.*$',
-            re.MULTILINE | re.IGNORECASE
         )
     }
     
+    FALSE_POSITIVES = {"доза", "введение", "режим", "кратность", "способ", "путь", "время", "скорость"}
+
     ROUTE_MAPPING = {
         "внутривенно": "в/в", "в/в": "в/в", "iv": "в/в",
         "внутримышечно": "в/м", "в/м": "в/м", "im": "в/м",
@@ -35,44 +31,32 @@ class MedicationExtractor:
         "подкожно": "п/к", "местно": "топически", "ректально": "ректально"
     }
     
+    
     @classmethod
     def extract(cls, text: str) -> List[Medication]:
-        """Извлекает список препаратов из текста"""
-        if not text:
-            return []
-        
-        medications = []
-        seen = set()  # Для дедупликации
-        
-        # Пробуем разные паттерны
-        for pattern_name, pattern in cls.PATTERNS.items():
-            for match in pattern.finditer(text):
-                try:
-                    name = match.group(1).strip()
-                    dosage = match.group(2).strip() if match.lastindex >= 2 else None
-                    route_raw = match.group(3).strip() if match.lastindex >= 3 else ""
-                    
-                    # Нормализация способа введения
-                    route = None
-                    for key, value in cls.ROUTE_MAPPING.items():
-                        if key.lower() in route_raw.lower():
-                            route = value
-                            break
-                    
-                    # Уникальный ключ для дедупликации
-                    key = f"{name.lower()}:{dosage}:{route}"
-                    if key not in seen:
-                        seen.add(key)
-                        medications.append(Medication(
-                            name=name,
-                            dosage=dosage,
-                            route=route,
-                            notes=f"extracted_via:{pattern_name}" if len(medications) > 5 else None
-                        ))
-                except (IndexError, AttributeError):
+    if not text: return []
+    meds = []
+    seen = set()
+    
+    for pat_name, pat in cls.PATTERNS.items():
+        for m in pat.finditer(text):
+            try:
+                name = m.group(1).strip()
+                # Пропускаем если имя в黑名单 или слишком короткое
+                if name.lower() in cls.FALSE_POSITIVES or len(name) < 4:
                     continue
-        
-        return medications
+                
+                dosage = m.group(2).strip() if m.lastindex >= 2 else None
+                route = None  # Упрощаем, маршрут будем извлекать позже контекстно
+                
+                key = f"{name.lower()}:{dosage}"
+                if key not in seen:
+                    seen.add(key)
+                    meds.append(Medication(name=name, dosage=dosage, route=route))
+            except (IndexError, AttributeError):
+                continue
+    return meds
+
     
     @classmethod
     def extract_keywords(cls, text: str, min_length: int = 3) -> List[str]:
