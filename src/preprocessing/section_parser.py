@@ -13,19 +13,19 @@ class SectionBlock:
     hierarchy_path: str = ""
     
     def get_section_type(self) -> str:
-        """Маппинг заголовка на тип секции для фильтрации"""
-        title_lower = self.title.lower()
-        if "общая информация" in title_lower: return "general"
-        if "диагност" in title_lower: return "diagnostics"
-        if "лечение" in title_lower:
-            if "купир" in title_lower or "остр" in title_lower or "неотлож" in title_lower:
-                return "treatment_acute"
-            if "поддерж" in title_lower or "длитель" in title_lower or "профилакт" in title_lower:
-                return "treatment_chronic"
-            return "treatment"
-        if "наблюд" in title_lower or "монитор" in title_lower: return "monitoring"
-        if "противопоказ" in title_lower: return "contraindications"
-        if "осложн" in title_lower or "побочн" in title_lower: return "side_effects"
+        t = self.title.lower()
+        mapping = {
+            "общая информация": "general", "описание": "general", "введение": "general",
+            "диагност": "diagnostics", "обследован": "diagnostics", "критерии": "diagnostics",
+            "лечение": "treatment", "терап": "treatment", "медикаментоз": "treatment",
+            "купир": "treatment_acute", "неотлож": "treatment_acute", "остр": "treatment_acute",
+            "наблюд": "monitoring", "монитор": "monitoring", "диспансер": "monitoring",
+            "противопоказ": "contraindications", "огранич": "contraindications",
+            "осложн": "side_effects", "побочн": "side_effects", "реабилит": "rehabilitation"
+        }
+        for k, v in mapping.items():
+            if k in t:
+                return v
         return "other"
 
 class SectionParser:
