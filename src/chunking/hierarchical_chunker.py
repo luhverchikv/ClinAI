@@ -91,8 +91,10 @@ class HierarchicalChunker:
                         source_file=source_file,
                         icd10_code=icd10_code,
                         diagnosis=diagnosis,
-                        section_type=block.get_section_type(),
-                        subsection=block.title if block.level == 3 else None,
+                        section_type=block.get_section_type()
+                         if section_type == "other":
+                             section_type = self._map_section_title(section_title)
+                         subsection=block.title if block.level == 3 else None,
                         hierarchy_path=block.hierarchy_path,
                         content=subchunk,
                         content_type=self._detect_content_type(subchunk),
@@ -145,4 +147,17 @@ class HierarchicalChunker:
         if re.search(r'\d+\.\s+|^[→•▪]\s+', text, re.MULTILINE):
             return "algorithm"
         return "text"
+        
+    
+    def _map_section_title(self, title: str) -> str:
+        """Маппинг заголовка ## на тип секции"""
+        t = title.lower()
+        if "общая информация" in t: return "general"
+        if "диагност" in t: return "diagnostics"
+        if "лечение" in t: 
+            if any(x in t for x in ["купир", "неотлож", "остр"]): return "treatment_acute"
+            return "treatment"
+        if "наблюд" in t: return "monitoring"
+        if "противопоказ" in t: return "contraindications"
+        return "other"
 
