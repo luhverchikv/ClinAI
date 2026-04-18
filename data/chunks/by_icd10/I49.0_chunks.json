@@ -1,0 +1,1992 @@
+{
+  "icd10_code": "I49.0",
+  "chunk_count": 9,
+  "chunks": [
+    {
+      "id": "I49.0-general-69182b65d2f2",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "general",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-general-69182b65d2f2",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "general",
+        "subsection": null,
+        "hierarchy_path": "📋 Общая информация",
+        "content": "Диагноз: Фибрилляция и трепетание желудочков Код МКБ-10: I49.0 Протокол: Клинический протокол диагностики и лечения тахикардии и нарушений проводимости Раздел/Глава: Раздел 2 (амбулаторные условия) / Раздел 3 (стационарные условия) / Раздел 1 (Общие положения – алгоритм СЛР) Номер протокола: № 59 Дата: 06.06.2017 Статус: Действует ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Фибрилляция",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "трепетание желудочков Код МКБ-",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Клинический протокол диагностики",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "лечения тахикардии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "нарушений проводимости",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Раздел",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "амбулаторные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Раздел",
+            "dosage": "3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "стационарные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Раздел",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Общие положения",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "алгоритм",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Номер",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Действует",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [
+          "Диагноз"
+        ],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 336,
+        "token_estimate": 84,
+        "created_at": "2026-04-18T15:48:30.274492"
+      }
+    },
+    {
+      "id": "I49.0-other-559cb83f3727",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-other-559cb83f3727",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "subsection": "Обязательное обследование",
+        "hierarchy_path": "Обязательное обследование",
+        "content": "- Биохимическое исследование крови: калий, магний, натрий, КФК, глюкоза - Контроль кислотно-основного состояния (КОС) - ЭКГ в 12 отведениях (всем пациентам исходно и перед выпиской) - Эхо-КГ - Холтеровское мониторирование (ХМ) - Консультация врача-кардиолога - Консультация в городском/областном кардиологическом диспансере или РНПЦ «Кардиология» (вопрос проведения коронарографии и имплантации кардиовертера-дефибриллятора или комбинированного устройства)",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Биохимическое исследование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "магний",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "натрий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "КФК",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "люкоза",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Контроль кислотно-основного состояния",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "отведениях",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "всем пациентам исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "перед",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Холтеровское мониторирование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Консультация врача-кардиолога",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Консультация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "областном кардиологическом диспансере или РНПЦ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "вопрос проведения коронарографии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "имплантации кардиовертера-дефибриллятора или комбинированного",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Биохимическое",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 456,
+        "token_estimate": 114,
+        "created_at": "2026-04-18T15:48:30.275395"
+      }
+    },
+    {
+      "id": "I49.0-other-9e727c81314c",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-other-9e727c81314c",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "subsection": "Дополнительное обследование (по показаниям)",
+        "hierarchy_path": "Дополнительное обследование (по показаниям)",
+        "content": "- Маркеры повреждения миокарда - Консультация кардиохирурга/рентген-эндоваскулярного хирурга для решения вопроса о коронарографии/реваскуляризации, внутрисердечном ЭФИ/аблации источника аритмии и/или имплантации ИКД - Оценка риска внезапной сердечной смерти (ВСС) для принятия решения о первичной профилактике с использованием ИКД Кратность/Периодичность: Исходно и по показаниям, но не реже 1 раза в год. ЭКГ – исходно и перед выпиской. Особые условия: При впервые возникшем пароксизме – обязательная срочная госпитализация. При рецидивах – повторное направление в специализированный центр для оценки показаний к хирургическому/интервенционному лечению. ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Маркеры повреждения миокарда",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Консультация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "рентген-эндоваскулярного хирурга для решения вопроса",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "реваскуляризации",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "внутрисердечном",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "аблации источника аритмии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "или имплантации ИКД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Оценка риска внезапной сердечной смерти",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "для принятия решения",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "первичной профилактике",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "использованием ИКД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по показаниям",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "но не реже",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раза",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "год",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "перед выпиской",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Особые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При впервые возникшем пароксизме",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "обязательная срочная госпитализация",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При рецидивах",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "повторное направление",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "специализированный центр для оценки показаний",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "интервенционному лечению",
+            "dosage": ". ---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Маркеры",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 658,
+        "token_estimate": 164,
+        "created_at": "2026-04-18T15:48:30.276613"
+      }
+    },
+    {
+      "id": "I49.0-other-750802dba152",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-other-750802dba152",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "Алгоритм: Немедленная сердечно-легочная реанимация (СЛР) + электрическая дефибрилляция. 1. ЭИТ (Дефибрилляция) 200 Дж (бифазный) или 360 Дж (монофазный). При отсутствии эффекта – разряды максимальной мощности (до 360 Дж) не менее 3 раз. 2. Амиодарон 300 мг (5 мг/кг) в/в болюсно; при необходимости повторно 150 мг в/в болюсно, затем инфузия 1 мг/мин в течение 6 ч, затем 0.5 мг/мин до конца суток (1000–1200 мг/сут). 3. Лидокаин 1.5 мг/кг в/в струйно медленно (2% р-р до 5–7.5 мл); можно повторить через 3–5 мин до суммарной дозы 3 мг/кг или 300 мг. 4. Прокаинамид 10% 5–10 мл в/в струйно медленно.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Немедленная сердечно-легочная реанимация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "электрическая дефибрилляция",
+            "dosage": ". 1.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ЭИТ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Дж",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "или",
+            "dosage": "360",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "При отсутствии эффекта",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "разряды максимальной мощности",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "до",
+            "dosage": "360",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "не менее",
+            "dosage": "3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раз",
+            "dosage": ". 2.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Амиодарон",
+            "dosage": "300 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при необходимости повторно",
+            "dosage": "150 мг",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "болюсно",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "затем инфузия",
+            "dosage": "1 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "течение",
+            "dosage": "6",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "затем",
+            "dosage": "0.5 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин до конца суток",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Лидокаин",
+            "dosage": "1.5 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "кг",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "струйно медленно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "р-р до",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "можно повторить через",
+            "dosage": "3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин до суммарной дозы",
+            "dosage": "3 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "кг или",
+            "dosage": "300 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Прокаинамид",
+            "dosage": "10%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "струйно медленно",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 598,
+        "token_estimate": 149,
+        "created_at": "2026-04-18T15:48:30.278080"
+      }
+    },
+    {
+      "id": "I49.0-other-e316d9f17fe4",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-other-e316d9f17fe4",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "ли 300 мг. 4. Прокаинамид 10% 5–10 мл в/в струйно медленно. Дополнительно при «электрическом шторме»: - Пропранолол в/в струйно медленно (пациентам >60 кг – 1 мг за 1 мин, повторять с интервалом 2 мин до макс. 10 мг под контролем ЭКГ и АД). - Метопролол 0,1% 2,5–5 мл в/в (2,5–5 мг со скоростью 1–2 мг/мин); повторять с интервалом 5 мин до 10–15 мг (макс. 20 мг). - MgSO₄ 25% 10 мл в/в медленно (при подозрении на дефицит Mg²⁺/K⁺) + восполнение дефицита калия.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "ли",
+            "dosage": "300 мг",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Прокаинамид",
+            "dosage": "10%",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мл",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "струйно медленно",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Дополнительно при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "электрическом",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Пропранолол",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "струйно медленно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "пациентам",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "кг",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг за",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "повторять",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "интервалом",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин до макс",
+            "dosage": ". 10 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "под контролем ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Метопролол",
+            "dosage": "0,1%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг со скоростью",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "интервалом",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин до",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "макс",
+            "dosage": ". 20 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "медленно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при подозрении на дефицит",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "восполнение дефицита калия",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 460,
+        "token_estimate": 115,
+        "created_at": "2026-04-18T15:48:30.278820"
+      }
+    },
+    {
+      "id": "I49.0-other-d8db518a0ed8",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-other-d8db518a0ed8",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "subsection": "Профилактика / Поддерживающая терапия",
+        "hierarchy_path": "Профилактика / Поддерживающая терапия",
+        "content": "Цели: Предотвращение повторных пароксизмов и профилактика внезапной сердечной смерти. 1. Бета-блокаторы: метопролол 25–200 мг/сут или бисопролол 2,5–10 мг/сут внутрь. 2. Соталол 80–320 мг/сут внутрь под контролем QT. 3. Амиодарон (при неэффективности вышеуказанных или частых разрядах ИКД) 100–400 мг/сут внутрь под контролем QT, функции щитовидной железы, печени и легких. 4. Препараты 1С класса (пропафенон до 150 мг 3 р/сут, этацизин до 50 мг 3 р/сут) в сочетании с бета-блокаторами [только при отсутствии противопоказаний]. 5. Хирургическое/интервенционное лечение: Имплантация ИКД (вторичная профилактика), аблация источника аритмии, реваскуляризация миокарда. ---",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Предотвращение повторных пароксизмов",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "профилактика внезапной сердечной смерти",
+            "dosage": ". 1.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Бета",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "метопролол",
+            "dosage": "25",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут или бисопролол",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": ". 2.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Соталол",
+            "dosage": "80",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь под контролем",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Амиодарон",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при неэффективности вышеуказанных или частых разрядах",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "функции щитовидной железы",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "печени",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "легких",
+            "dosage": ". 4.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Препараты",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "класса",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "пропафенон до",
+            "dosage": "150 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "этацизин до",
+            "dosage": "50 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сочетании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бета-блокаторами",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "только при отсутствии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "интервенционное",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Имплантация ИКД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "вторичная",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "аблация источника аритмии",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "реваскуляризация миокарда",
+            "dosage": ". ---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 669,
+        "token_estimate": 167,
+        "created_at": "2026-04-18T15:48:30.279912"
+      }
+    },
+    {
+      "id": "I49.0-monitoring-15eef4999efd",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "monitoring",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-monitoring-15eef4999efd",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "monitoring",
+        "subsection": null,
+        "hierarchy_path": "👁️ Наблюдение",
+        "content": "Длительность терапии: В зависимости от основной патологии, но не менее 5 дней после купирования пароксизма; далее 3 месяца и постоянно по показаниям. Контрольные параметры: ЭКГ, биохимия (K⁺, Mg²⁺, Na⁺, КФК, глюкоза), контроль КОС, ХМ, Эхо-КГ. При приеме амиодарона – контроль функции щитовидной железы, печени (1 раз в 6 мес), легких и осмотр окулиста (1 раз в год). Цели лечения: Улучшение состояния, купирование и отсутствие рецидивов пароксизмов, профилактика внезапной сердечной смерти. Периодичность осмотров: Наблюдение за пациентами с имплантированным ИКД/ЭКС – суточное мониторирование ЭКГ и визит в кабинет контроля устройства не реже 1 раза в год. ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Длительность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "зависимости от основной патологии",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "но не менее",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "дней после купирования",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "далее",
+            "dosage": "3 ме",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сяца",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "постоянно по показаниям",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Контрольные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "биохимия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "КФК",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "контроль КОС",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ХМ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При приеме амиодарона",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "контроль функции щитовидной железы",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "печени",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раз",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "легких",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "осмотр окулиста",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Цели",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Улучшение состояния",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "купирование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "отсутствие рецидивов пароксизмов",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "профилактика внезапной сердечной смерти",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Периодичность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Наблюдение за пациентами",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "имплантированным",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКС",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "суточное мониторирование ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "визит",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "кабинет контроля устройства не реже",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раза",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "год",
+            "dosage": ". ---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 662,
+        "token_estimate": 165,
+        "created_at": "2026-04-18T15:48:30.281331"
+      }
+    },
+    {
+      "id": "I49.0-contraindications-a440cf6dda99",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "contraindications",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-contraindications-a440cf6dda99",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "contraindications",
+        "subsection": null,
+        "hierarchy_path": "⚠️ Противопоказания и ограничения",
+        "content": "- Препараты 1С класса (пропафенон, этацизин) противопоказаны при: перенесенном инфаркте миокарда, стенокардии, гипертрофии миокарда ЛЖ >14 мм, наличии дилатации ЛЖ и снижении ФВ <40%. - Введение бета-блокаторов при «электрическом шторме» требует строгого контроля АД и ЭКГ во избежание гемодинамической нестабильности. - Амиодарон имеет высокую органотоксичность, требует обязательного регулярного мониторинга (щитовидная железа, печень, легкие, зрение) и коррекции дозы при нарушении функции органов. - Имплантация ИКД/ЭКС требует строгой оценки показаний (первичная/вторичная профилактика ВСС) и исключения обратимых причин (электролитные нарушения, острая ишемия, лекарственные влияния). ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Препараты",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "класса",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "пропафенон",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "противопоказаны",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "перенесенном инфаркте миокарда",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "стенокардии",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ипертрофии миокарда ЛЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "наличии дилатации ЛЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "снижении ФВ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Введение бета-блокаторов при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "электрическом",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "требует строгого контроля АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ во избежание гемодинамической нестабильности",
+            "dosage": ". -",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Амиодарон имеет высокую органотоксичность",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "требует обязательного регулярного мониторинга",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "щитовидная железа",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "печень",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "легкие",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "коррекции дозы при нарушении функции органов",
+            "dosage": ". -",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Имплантация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКС требует строгой оценки показаний",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "вторичная профилактика",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исключения обратимых причин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "электролитные нарушения",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "острая ишемия",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "лекарственные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Препараты",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [
+          "Инфаркт"
+        ],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 694,
+        "token_estimate": 173,
+        "created_at": "2026-04-18T15:48:30.282454"
+      }
+    },
+    {
+      "id": "I49.0-other-6cba8304b572",
+      "vector_metadata": {
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I49.0-other-6cba8304b572",
+        "source_file": "I49.0.md",
+        "icd10_code": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "- ФЖ — фибрилляция желудочков; ТЖ — трепетание желудочков - ЭИТ — электроимпульсная терапия; СЛР — сердечно-легочная реанимация - ИКД — имплантируемый кардиовертер-дефибриллятор; ЭКС — электрокардиостимулятор - ХМ — холтеровское мониторирование; ЭФИ — электрофизиологическое исследование - КОС — кислотно-основное состояние; КФК — креатинфосфокиназа - ВСС — внезапная сердечная смерть; ФВ — фракция выброса; ЛЖ — левый желудочек - Важно: При любой гемодинамически значимой тахиаритмии (в т.ч. ФЖ/ТЖ) методом выбора является электрическая кардиоверсия/дефибрилляция. Длительность СЛР не должна быть менее 30 мин от момента последнего эпизода асистолии. --- Дата создания заметки: 2026-04-17",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "ФЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "фибрилляция",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ТЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "трепетание желудочков",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ЭИТ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "электроимпульсная",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "СЛР",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сердечно-легочная реанимация",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ИКД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "имплантируемый кардиовертер",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКС",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "электрокардиостимулятор",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ХМ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "холтеровское",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭФИ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "электрофизиологическое исследование",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "КОС",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "кислотно-основное",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "КФК",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинфосфокиназа",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ВСС",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "внезапная сердечная",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ФВ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "фракция",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЛЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "левый желудочек",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При любой гемодинамически значимой тахиаритмии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "методом выбора является электрическая",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "дефибрилляция",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Длительность СЛР не должна быть менее",
+            "dosage": "30",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин от момента последнего эпизода асистолии",
+            "dosage": ". ---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Дата создания",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ФЖ",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "risk_level": null,
+        "char_count": 689,
+        "token_estimate": 172,
+        "created_at": "2026-04-18T15:48:30.283684"
+      }
+    }
+  ]
+}

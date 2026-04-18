@@ -1,0 +1,1996 @@
+{
+  "icd10_code": "I13.2",
+  "chunk_count": 10,
+  "chunks": [
+    {
+      "id": "I13.2-general-e3c2c883434c",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "general",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-general-e3c2c883434c",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "general",
+        "subsection": null,
+        "hierarchy_path": "📋 Общая информация",
+        "content": "Диагноз: Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью Код МКБ-10: I13.2 Протокол: Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением Раздел/Глава: Раздел 2 (амбулаторные условия) / Раздел 3 (стационарные условия) Номер протокола: № 59 Дата: 06.06.2017 Статус: Действует ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Артериальная гипертензия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "преимущественным поражением сердца",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "почек",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "застойной сердечной недостаточностью",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "почечной недостаточностью Код МКБ-",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Клинический протокол диагностики",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "лечения болезней",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "характеризующихся повышенным кровяным давлением",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Раздел",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "амбулаторные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Раздел",
+            "dosage": "3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "стационарные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Номер",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Действует",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [
+          "Диагноз",
+          "Гипертензия",
+          "Артериальная"
+        ],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 415,
+        "token_estimate": 103,
+        "created_at": "2026-04-18T15:48:30.264376"
+      }
+    },
+    {
+      "id": "I13.2-other-18857387b476",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-18857387b476",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": "Обязательное обследование",
+        "hierarchy_path": "Обязательное обследование",
+        "content": "- Общий анализ крови - Общий анализ мочи - Биохимическое исследование крови: калий, натрий, креатинин (в динамике), холестерин, билирубин, глюкоза, общий белок, мочевина - Расчет СКФ (по формуле Кокрофта-Гаулта) - Измерение АД (профиль) - ЭКГ (исходно и перед выпиской) - Эхо-КГ - УЗИ почек, печени - СМЭКГ (в стационаре/амбулаторно по показаниям) - РРГ, УЗИ БЦА (в стационаре)",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Общий анализ крови",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Общий анализ мочи",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Биохимическое исследование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "натрий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "креатинин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "холестерин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "билирубин",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "люкоза",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "общий белок",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мочевина",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Расчет СКФ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по формуле Кокрофта",
+            "dosage": "-Г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Измерение АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "перед",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "УЗИ почек",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "печени",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СМЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "амбулаторно по",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "РРГ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "УЗИ БЦА",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Общий",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 377,
+        "token_estimate": 94,
+        "created_at": "2026-04-18T15:48:30.265268"
+      }
+    },
+    {
+      "id": "I13.2-other-fa51260e0984",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-fa51260e0984",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": "Дополнительное обследование (по показаниям)",
+        "hierarchy_path": "Дополнительное обследование (по показаниям)",
+        "content": "- Анализ мочи по Нечипоренко - СМАД - Флюорография/рентгенография органов грудной полости - Консультация в областном кардиодиспансере (при резистентной АГ) Кратность/Периодичность: При прогрессировании — исходно и далее по показаниям; при стабильном течении — 1 раз в год Особые условия: * — проводится в условиях межрайонных/областных/республиканских организаций; обязательный строгий контроль калия плазмы и креатинина при назначении ИАПФ/АРА ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Анализ мочи по Нечипоренко",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "СМАД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "рентгенография органов грудной полости",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Консультация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "областном кардиодиспансере",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при резистентной",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "При прогрессировании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "далее по",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при стабильном течении",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раз",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "год Особые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "проводится",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "условиях",
+            "dosage": "ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "республиканских",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "обязательный строгий контроль калия плазмы",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинина при назначении",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АРА",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Анализ",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 448,
+        "token_estimate": 112,
+        "created_at": "2026-04-18T15:48:30.266171"
+      }
+    },
+    {
+      "id": "I13.2-other-1ba368dfc0ef",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-1ba368dfc0ef",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "Декомпенсация СН / Гипертонический криз: 1. Фуросемид 2–8 мл в/в (при застойных явлениях) в сочетании со спиронолактоном 25 мг/сут внутрь под контролем калия 2. Торасемид 5–40 мг/сут внутрь 3. Натрия нитропруссид 0,25–5.0 мг/кг/мин в/в капельно или нитроглицерин 5–100 мкг/мин в/в (при АД ≥170/110 мм рт. ст.) 4. Стандартные схемы купирования криза: клонидин, каптоприл, нифедипин, урапидил в/в под строгим контролем АД",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Декомпенсация СН",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Гипертонический",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Фуросемид",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мл",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при застойных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сочетании со спиронолактоном",
+            "dosage": "25 мг",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут внутрь под контролем калия",
+            "dosage": "2.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Торасемид",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "3.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Натрия нитропруссид",
+            "dosage": "0,25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "капельно или нитроглицерин",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Стандартные схемы купирования",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "клонидин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "каптоприл",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "нифедипин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "урапидил",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "под строгим контролем",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 419,
+        "token_estimate": 104,
+        "created_at": "2026-04-18T15:48:30.266897"
+      }
+    },
+    {
+      "id": "I13.2-other-b517a9ccae04",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-b517a9ccae04",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": "Профилактика / Поддерживающая терапия",
+        "hierarchy_path": "Профилактика / Поддерживающая терапия",
+        "content": "Цель: Снижение АД до целевых уровней, уменьшение явлений декомпенсации и почечной недостаточности, стабилизация функции почек и сердца Базисная терапия (комбинированная, с учётом функции почек): 1. Диуретики: фуросемид 40–80 мг/сут внутрь, торасемид 5–40 мг/сут внутрь, гидрохлортиазид 25–50 мг/сут (менее предпочтителен при почечной недостаточности) 2. ИАПФ: эналаприл 2,5–40 мг/сут, фозиноприл 5–20 мг/сут (преимущество — двойной путь выведения), периндоприл 2,5–10 мг/сут, лизиноприл 2,5–20 мг/сут, рамиприл 2,5–10 мг/сут, квинаприл 10–20 мг/сут, каптоприл 6,25–50 мг/сут внутрь (под контролем СКФ, креатинина, калия) 3.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Снижение АД до целевых уровней",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "уменьшение явлений декомпенсации",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "почечной недостаточности",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "стабилизация функции почек",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сердца Базисная терапия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "комбинированная",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "учётом функции",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "фуросемид",
+            "dosage": "40",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "торасемид",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "идрохлортиазид",
+            "dosage": "25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "менее предпочтителен при почечной",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "эналаприл",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "фозиноприл",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "преимущество",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "двойной путь",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "периндоприл",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "лизиноприл",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "рамиприл",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "квинаприл",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "каптоприл",
+            "dosage": "6,25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "под контролем СКФ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинина",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 623,
+        "token_estimate": 155,
+        "created_at": "2026-04-18T15:48:30.268345"
+      }
+    },
+    {
+      "id": "I13.2-other-294464fe8a3d",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-294464fe8a3d",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": "Профилактика / Поддерживающая терапия",
+        "hierarchy_path": "Профилактика / Поддерживающая терапия",
+        "content": "–50 мг/сут внутрь (под контролем СКФ, креатинина, калия) 3. АК (пролонгированные): амлодипин 2,5–10 мг/сут, лерканидипин 5–10 мг/сут внутрь 4. БАБ: бисопролол 1,25–5 мг/сут, карведилол 6,25–25 мг/сут, метопролол сукцинат 12,5–100 мг/сут внутрь 5. АРА (при непереносимости ИАПФ): лозартан 50–100 мг/сут, валсартан 40–80 мг/сут, ирбесартан 150 мг/сут, кандесартан 4–32 мг/сут внутрь 6. Улучшение микроциркуляции почек: пентоксифиллин 400–600 мг/сут или дипиридамол 75–150 мг/сут внутрь курсами ---",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "сут внутрь",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "под контролем СКФ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "креатинина",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АК",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "амлодипин",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "лерканидипин",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "4.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бисопролол",
+            "dosage": "1,25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "карведилол",
+            "dosage": "6,25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ", ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "топролол сукцинат",
+            "dosage": "12,5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "5.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АРА",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при непереносимости",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "лозартан",
+            "dosage": "50",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "валсартан",
+            "dosage": "40",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ирбесартан",
+            "dosage": "150 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "кандесартан",
+            "dosage": "4",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "6.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Улучшение микроциркуляции",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "пентоксифиллин",
+            "dosage": "400",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут или дипиридамол",
+            "dosage": "75",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь курсами",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 495,
+        "token_estimate": 123,
+        "created_at": "2026-04-18T15:48:30.269526"
+      }
+    },
+    {
+      "id": "I13.2-monitoring-ff3794c5ebf5",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "monitoring",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-monitoring-ff3794c5ebf5",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "monitoring",
+        "subsection": null,
+        "hierarchy_path": "👁️ Наблюдение",
+        "content": "Длительность терапии: Постоянно, с коррекцией доз в зависимости от уровня АД и функции почек Контрольные параметры: АД (профиль, самоконтроль), ЭКГ, Эхо-КГ, биохимия крови (креатинин в динамике, калий, мочевина, общий белок, липиды, глюкоза), СКФ, общий анализ мочи, масса тела Цели лечения: - Улучшение состояния, уменьшение симптомов декомпенсации - Снижение АД до целевых уровней (<140/90 мм рт. ст., при СД <140/85 мм рт. ст.) - Снижение уровня мочевины и креатинина - Компенсация сердечно-сосудистых и почечных осложнений - Предотвращение прогрессирования поражения органов-мишеней Периодичность осмотров: При стабильном течении — 1 раз в год; при прогрессировании — по показаниям ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Длительность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Постоянно",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "коррекцией доз",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "зависимости от уровня АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "функции почек Контрольные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "профиль",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "биохимия крови",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "динамике",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мочевина",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "общий белок",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "липиды",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СКФ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "общий анализ мочи",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "масса тела Цели",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Улучшение состояния",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "уменьшение симптомов декомпенсации",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Снижение АД до целевых уровней",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".,",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при СД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Снижение уровня мочевины",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинина",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Компенсация сердечно-сосудистых",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "почечных осложнений",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Предотвращение прогрессирования поражения органов-мишеней Периодичность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При стабильном течении",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раз",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при прогрессировании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по показаниям",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 689,
+        "token_estimate": 172,
+        "created_at": "2026-04-18T15:48:30.271290"
+      }
+    },
+    {
+      "id": "I13.2-contraindications-dd1503ff2ded",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "contraindications",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-contraindications-dd1503ff2ded",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "contraindications",
+        "subsection": null,
+        "hierarchy_path": "⚠️ Противопоказания и ограничения",
+        "content": "- ИАПФ/АРА: беременность, гиперкалиемия, двусторонний стеноз почечных артерий, ангионевротический отек в анамнезе - Тиазидовые диуретики: подагра, выраженная почечная недостаточность (предпочтительны петлевые диуретики) - БАБ: бронхиальная астма, АВ-блокада 2–3 ст. - АК (верапамил/дилтиазем): АВ-блокада 2–3 ст., тяжелая дисфункция ЛЖ - Особые условия: при назначении ИАПФ/АРА обязателен строгий контроль калия плазмы и креатинина; гидрохлортиазид менее предпочтителен при ХБП; титрация доз проводится осторожно под контролем СКФ ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "беременность",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "иперкалиемия",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "двусторонний стеноз почечных артерий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ангионевротический отек",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "анамнезе",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Тиазидовые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "подагра",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "выраженная почечная недостаточность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "предпочтительны петлевые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бронхиальная астма",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АВ-блокада",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ". -",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АК",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".,",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "тяжелая дисфункция ЛЖ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Особые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при назначении",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АРА обязателен строгий контроль калия плазмы",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "гидрохлортиазид менее предпочтителен при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "титрация доз проводится осторожно под контролем СКФ",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ИАПФ",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 534,
+        "token_estimate": 133,
+        "created_at": "2026-04-18T15:48:30.272176"
+      }
+    },
+    {
+      "id": "I13.2-other-aed41883d929",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-aed41883d929",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "- АД — артериальное давление; САД/ДАД — систолическое/диастолическое АД - БАБ — бета-адреноблокаторы; АК — антагонисты кальция; ИАПФ — ингибиторы АПФ; АРА — антагонисты рецепторов ангиотензина II - СКФ — скорость клубочковой фильтрации; СМАД — суточное мониторирование АД; СМЭКГ — суточное мониторирование ЭКГ - РРГ — радиоизотопная ренография; БЦА — брахиоцефальные артерии; ХБП — хроническая болезнь почек; ЛЖ — левый желудочек - Преимущество фозиноприла: двойной путь выведения (почечный и печёночный), что снижает риск накопления препарата при почечной недостаточности - Немедикаментозные меры: ограничение соли (<5 г/сут), отказ от курения, нормализация массы тела,",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "артериальное",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ДАД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "диастолическое АД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "БАБ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "бета",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АК",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "антагонисты",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ИАПФ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ингибиторы",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АРА",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "антагонисты рецепторов ангиотензина",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СКФ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "скорость клубочковой",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СМАД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "суточное мониторирование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СМЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "суточное мониторирование ЭКГ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "РРГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "радиоизотопная",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "БЦА",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "брахиоцефальные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ХБП",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "хроническая болезнь",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЛЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "левый желудочек",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Преимущество",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "двойной путь выведения",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "почечный",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "что снижает риск накопления препарата при почечной недостаточности",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Немедикаментозные",
+            "dosage": "ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ограничение соли",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "отказ от курения",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "нормализация массы тела",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АД",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 670,
+        "token_estimate": 167,
+        "created_at": "2026-04-18T15:48:30.273567"
+      }
+    },
+    {
+      "id": "I13.2-other-cbf79f7b725c",
+      "vector_metadata": {
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I13.2-other-cbf79f7b725c",
+        "source_file": "I13.2.md",
+        "icd10_code": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "соли (<5 г/сут), отказ от курения, нормализация массы тела, дозированная аэробная физическая активность, коррекция липидного профиля и гликемии --- Дата создания заметки: 2026-04-17",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "соли",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "отказ от курения",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "нормализация массы тела",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "дозированная аэробная физическая активность",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "коррекция липидного профиля",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "гликемии",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Дата создания",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "risk_level": null,
+        "char_count": 181,
+        "token_estimate": 45,
+        "created_at": "2026-04-18T15:48:30.273888"
+      }
+    }
+  ]
+}

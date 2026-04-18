@@ -1,0 +1,1634 @@
+{
+  "icd10_code": "I15.0",
+  "chunk_count": 10,
+  "chunks": [
+    {
+      "id": "I15.0-general-082193571f4b",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "general",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-general-082193571f4b",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "general",
+        "subsection": null,
+        "hierarchy_path": "📋 Общая информация",
+        "content": "Диагноз: Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит) Код МКБ-10: I15.0 Протокол: Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением Раздел/Глава: Раздел 2 (амбулаторные условия) / Раздел 3 (стационарные условия) Номер протокола: № 59 Дата: 06.06.2017 Статус: Действует ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Реноваскулярная гипертензия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "фибро-мускулярная дисплазия",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "неспецифический",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Код МКБ-",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Клинический протокол диагностики",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "лечения болезней",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "характеризующихся повышенным кровяным давлением",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Раздел",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "амбулаторные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Раздел",
+            "dosage": "3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "стационарные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Номер",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Действует",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [
+          "Диагноз",
+          "Гипертензия"
+        ],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 367,
+        "token_estimate": 91,
+        "created_at": "2026-04-18T15:48:30.236637"
+      }
+    },
+    {
+      "id": "I15.0-other-e8706ba76ff4",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-e8706ba76ff4",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": "Обязательное обследование",
+        "hierarchy_path": "Обязательное обследование",
+        "content": "- Общий анализ крови - Общий анализ мочи - Биохимическое исследование крови: калий, мочевина, креатинин - Клиренс креатинина (в стационаре) - Измерение АД (профиль) - ЭКГ - УЗИ почек - УЗИ брахиоцефальных артерий (БЦА) (в стационаре) - Эхо-КГ - Консультация врача-сосудистого хирурга / врача-офтальмолога (глазное дно)",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Общий анализ крови",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Общий анализ мочи",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Биохимическое исследование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мочевина",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "креатинин",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Клиренс креатинина",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Измерение АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "УЗИ почек",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "УЗИ брахиоцефальных артерий",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Консультация врача-сосудистого хирурга",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "врача-офтальмолога",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "глазное",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Общий",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 318,
+        "token_estimate": 79,
+        "created_at": "2026-04-18T15:48:30.237354"
+      }
+    },
+    {
+      "id": "I15.0-other-00de461cef35",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-00de461cef35",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": "Дополнительное обследование (по показаниям)",
+        "hierarchy_path": "Дополнительное обследование (по показаниям)",
+        "content": "- Анализ мочи по Нечипоренко - СМАД - Рентгенография органов грудной полости - БАГ (брюшная аортография — при рефрактерной АГ) - Радиоизотопная ренография - КТ надпочечников Кратность/Периодичность: При прогрессировании — исходно и далее по показаниям; при стабильном течении — 1 раз в год Особые условия:  — проводится в условиях межрайонных/областных/республиканских организаций здравоохранения; обязательная консультация сосудистого хирурга для оценки показаний к реваскуляризации ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Анализ мочи по Нечипоренко",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "СМАД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Рентгенография органов грудной полости",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "БАГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "брюшная аортография",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при рефрактерной",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Радиоизотопная ренография",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "КТ надпочечников",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При прогрессировании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "далее по",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при стабильном течении",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раз",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "год Особые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "проводится",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "условиях",
+            "dosage": "ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "республиканских организаций",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "обязательная консультация сосудистого хирурга для оценки показаний",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "реваскуляризации",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Анализ",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 487,
+        "token_estimate": 121,
+        "created_at": "2026-04-18T15:48:30.238319"
+      }
+    },
+    {
+      "id": "I15.0-other-8905a2f712d8",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-8905a2f712d8",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "Гипертонический криз: по алгоритму эссенциальной гипертензии (клонидин, нифедипин, каптоприл, эналаприл в/в, урапидил в/в под контролем АД) При рефрактерном течении: рассмотрение вопроса о экстренной реваскуляризации*",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Гипертонический",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "по алгоритму эссенциальной гипертензии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "клонидин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "нифедипин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "каптоприл",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "эналаприл",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "урапидил",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "под контролем",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При рефрактерном",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "рассмотрение вопроса",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "экстренной",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 217,
+        "token_estimate": 54,
+        "created_at": "2026-04-18T15:48:30.239076"
+      }
+    },
+    {
+      "id": "I15.0-other-6ea9f3e886bc",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-6ea9f3e886bc",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": "Профилактика / Поддерживающая терапия",
+        "hierarchy_path": "Профилактика / Поддерживающая терапия",
+        "content": "Цель: Снижение АД до целевых уровней (не ниже 130/85 мм рт. ст.), улучшение почечного кровотока, профилактика прогрессирования стеноза Базисная медикаментозная терапия (как при эссенциальной АГ) + специфические препараты: 1. ИАПФ/АРА: с осторожностью при двустороннем стенозе почечных артерий; контроль креатинина и калия 2. АК: амлодипин 2,5–10 мг/сут, лерканидипин 5–10 мг/сут внутрь 3. БАБ: бисопролол 5–10 мг/сут, метопролол 25–100 мг/сут внутрь 4. Диуретики: по показаниям (фуросемид, торасемид) 5.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Снижение АД до целевых уровней",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "не ниже",
+            "dosage": "130",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "улучшение почечного кровотока",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "профилактика прогрессирования стеноза Базисная медикаментозная терапия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "как при эссенциальной",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "специфические",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "осторожностью при двустороннем стенозе почечных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "контроль креатинина",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "калия",
+            "dosage": "2.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "амлодипин",
+            "dosage": "2,5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "лерканидипин",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "3.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бисопролол",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ", ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "топролол",
+            "dosage": "25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "4.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по показаниям",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "фуросемид",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 503,
+        "token_estimate": 125,
+        "created_at": "2026-04-18T15:48:30.240004"
+      }
+    },
+    {
+      "id": "I15.0-other-88942d5bbc69",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-88942d5bbc69",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": "Профилактика / Поддерживающая терапия",
+        "hierarchy_path": "Профилактика / Поддерживающая терапия",
+        "content": "нутрь 4. Диуретики: по показаниям (фуросемид, торасемид) 5. Препараты для улучшения микроциркуляции почек: - Ксантинола никотинат: 300–600 мг в/м или 450 мг/сут внутрь - Пентоксифиллин: 200–300 мг в/в капельно (в 200 мл 0,9% NaCl или 5% глюкозы) или 300–800 мг/сут внутрь - Дипиридамол: 75–150 мг/сут внутрь курсами *Хирургическое лечение:** - Оперативная реваскуляризация почечных артерий - Рентгенэндоваскулярные вмешательства (ангиопластика, стентирование) ---",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "нутрь",
+            "dosage": "4.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "по показаниям",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "фуросемид",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Препараты для улучшения микроциркуляции",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Ксантинола",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мг",
+            "dosage": "",
+            "route": "в/м",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "или",
+            "dosage": "450 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "капельно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "0,9%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или",
+            "dosage": "5%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или",
+            "dosage": "300",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь курсами",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Хирургическое",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Оперативная реваскуляризация почечных артерий",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Рентгенэндоваскулярные вмешательства",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ангиопластика",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 463,
+        "token_estimate": 115,
+        "created_at": "2026-04-18T15:48:30.240790"
+      }
+    },
+    {
+      "id": "I15.0-monitoring-c52dd3f4bde9",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "monitoring",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-monitoring-c52dd3f4bde9",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "monitoring",
+        "subsection": null,
+        "hierarchy_path": "👁️ Наблюдение",
+        "content": "Длительность терапии: Постоянно; после оперативного лечения — пожизненное наблюдение Контрольные параметры: АД (профиль, самоконтроль), ЭКГ, Эхо-КГ, биохимия крови (креатинин, калий, мочевина), УЗИ почек/почечных артерий, СКФ Цели лечения: - Улучшение состояния - Снижение АД до целевых уровней (не ниже 130/85 мм рт. ст.) - Стабилизация функции почек - Предотвращение прогрессирования стеноза почечных артерий Периодичность осмотров: При стабильном течении — 1 раз в год; при прогрессировании — по показаниям Средняя длительность стационарного лечения: 8 дней (24 дня* — при оперативном/эндоваскулярном лечении) ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Длительность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "после оперативного лечения",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "пожизненное наблюдение Контрольные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "профиль",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "биохимия крови",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "УЗИ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "почечных артерий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СКФ Цели",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Улучшение состояния",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Снижение АД до целевых уровней",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "не ниже",
+            "dosage": "130",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Стабилизация функции почек",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Предотвращение прогрессирования стеноза почечных артерий Периодичность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При стабильном течении",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раз",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при прогрессировании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по показаниям Средняя длительность стационарного",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "дней",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "эндоваскулярном",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 616,
+        "token_estimate": 154,
+        "created_at": "2026-04-18T15:48:30.242658"
+      }
+    },
+    {
+      "id": "I15.0-contraindications-346f490cf815",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "contraindications",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-contraindications-346f490cf815",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "contraindications",
+        "subsection": null,
+        "hierarchy_path": "⚠️ Противопоказания и ограничения",
+        "content": "- ИАПФ/АРА: двусторонний стеноз почечных артерий, гиперкалиемия, беременность, ангионевротический отек в анамнезе - БАБ: бронхиальная астма, АВ-блокада 2–3 ст. - Особые условия: при реноваскулярной АГ назначение ИАПФ/АРА требует обязательного контроля креатинина и калия в первые 2–4 недели; при ухудшении функции почек — отмена препарата - *Хирургическое лечение:** показания определяются сосудистым хирургом после ангиографического подтверждения диагноза ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "двусторонний стеноз почечных артерий",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "иперкалиемия",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "беременность",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ангионевротический отек",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "анамнезе",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "бронхиальная астма",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АВ-блокада",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ". -",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Особые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при реноваскулярной АГ назначение",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АРА требует обязательного контроля креатинина",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "калия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "первые",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при ухудшении функции почек",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "отмена препарата",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Хирургическое",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "показания определяются сосудистым хирургом после ангиографического подтверждения диагноза",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ИАПФ",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 460,
+        "token_estimate": 115,
+        "created_at": "2026-04-18T15:48:30.243621"
+      }
+    },
+    {
+      "id": "I15.0-other-75a523613825",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-75a523613825",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "- АД — артериальное давление; САД/ДАД — систолическое/диастолическое АД - БАБ — бета-адреноблокаторы; АК — антагонисты кальция; ИАПФ — ингибиторы АПФ; АРА — антагонисты рецепторов ангиотензина II - СКФ — скорость клубочковой фильтрации; СМАД — суточное мониторирование АД - БАГ — брюшная аортография; БЦА — брахиоцефальные артерии - Целевые уровни АД: не ниже 130/85 мм рт. ст.",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "артериальное",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ДАД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "диастолическое АД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "БАБ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "бета",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АК",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "антагонисты",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ИАПФ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ингибиторы",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АРА",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "антагонисты рецепторов ангиотензина",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СКФ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "скорость клубочковой",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СМАД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "суточное мониторирование АД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "БАГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "брюшная",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "БЦА",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "брахиоцефальные артерии",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Целевые уровни",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "не ниже",
+            "dosage": "130",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АД",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 377,
+        "token_estimate": 94,
+        "created_at": "2026-04-18T15:48:30.244631"
+      }
+    },
+    {
+      "id": "I15.0-other-96734cc6bf27",
+      "vector_metadata": {
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I15.0-other-96734cc6bf27",
+        "source_file": "I15.0.md",
+        "icd10_code": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "ьные артерии - Целевые уровни АД: не ниже 130/85 мм рт. ст. (особенность реноваскулярной гипертензии — риск гипоперфузии почек при избыточном снижении АД) - Немедикаментозные меры: ограничение соли (<5 г/сут), отказ от курения, контроль массы тела, аэробная физическая активность - * — вмешательства и консультации проводятся в специализированных сосудистых центрах --- Дата создания заметки: 2026-04-17",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "ьные артерии",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Целевые уровни",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "не ниже",
+            "dosage": "130",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "особенность реноваскулярной гипертензии",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "риск гипоперфузии почек при избыточном снижении",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Немедикаментозные",
+            "dosage": "ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ограничение соли",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "отказ от курения",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "контроль массы тела",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "аэробная физическая активность",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "вмешательства",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "консультации проводятся",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "специализированных сосудистых центрах",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Дата создания",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 403,
+        "token_estimate": 100,
+        "created_at": "2026-04-18T15:48:30.245170"
+      }
+    }
+  ]
+}

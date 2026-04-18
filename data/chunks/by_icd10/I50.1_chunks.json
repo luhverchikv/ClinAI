@@ -1,0 +1,1925 @@
+{
+  "icd10_code": "I50.1",
+  "chunk_count": 11,
+  "chunks": [
+    {
+      "id": "I50.1-general-8b382a60327b",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "general",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-general-8b382a60327b",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "general",
+        "subsection": null,
+        "hierarchy_path": "📋 Общая информация",
+        "content": "Диагноз: Левожелудочковая недостаточность (острый отек легкого, сердечная астма) Код МКБ-10: I50.1 Протокол: Клинический протокол диагностики и лечения заболеваний, осложненных сердечной недостаточностью Раздел/Глава: Приложение 4 Номер протокола: № 59 Дата: 06.06.2017 Статус: Действует ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Левожелудочковая недостаточность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "острый отек легкого",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сердечная",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Код МКБ-",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Клинический протокол диагностики",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "лечения заболеваний",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "осложненных сердечной недостаточностью",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Приложение",
+            "dosage": "4",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Номер",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Действует",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [
+          "Диагноз"
+        ],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 291,
+        "token_estimate": 72,
+        "created_at": "2026-04-18T15:48:30.245796"
+      }
+    },
+    {
+      "id": "I50.1-other-1450ab989ef2",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-1450ab989ef2",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": "Обязательное обследование",
+        "hierarchy_path": "Обязательное обследование",
+        "content": "Амбулаторно (на догоспитальном этапе): - Измерение АД - ЭКГ Стационарно: - Общий анализ крови - Общий анализ мочи - Биохимическое исследование крови: калий, натрий, КФК, глюкоза, мочевина, билирубин, креатинин, АсТ, АлТ, ГГТ (в динамике) - Уровень BNP или NT-proBNP - Исследование гемостаза: АЧТВ, МНО, фибриноген - ЭКГ (исходно и перед выпиской)",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Амбулаторно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "на догоспитальном",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Измерение АД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Общий анализ крови",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Общий анализ мочи",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Биохимическое исследование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "натрий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "КФК",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "люкоза",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мочевина",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "билирубин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АсТ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АлТ",
+            "dosage": ", Г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ГТ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Уровень",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Исследование",
+            "dosage": "г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АЧТВ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "МНО",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "фибриноген",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "перед",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 346,
+        "token_estimate": 86,
+        "created_at": "2026-04-18T15:48:30.246710"
+      }
+    },
+    {
+      "id": "I50.1-other-1f4a9b83a591",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-1f4a9b83a591",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": "Дополнительное обследование (по показаниям)",
+        "hierarchy_path": "Дополнительное обследование (по показаниям)",
+        "content": "- Рентгенография или флюорография органов грудной полости - ЦГД (чреспищеводная гемодинамика) - Множественные ЭКГ-отведения - ХМ ЭКГ (холтеровское мониторирование) - Эхо-КГ Кратность/Периодичность: Исходно и далее по показаниям; ЭКГ — исходно и перед выпиской Особые условия: *Исследования уровня BNP/NT-proBNP и консультации специалистов проводятся в межрайонных (при оснащении), областных и республиканских организациях здравоохранения ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Рентгенография или флюорография органов грудной полости",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ЦГД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "чреспищеводная",
+            "dosage": "г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Множественные ЭКГ-отведения",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ХМ ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "холтеровское",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "далее по",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "перед выпиской Особые",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Исследования уровня",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "консультации специалистов проводятся",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "межрайонных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "областных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "республиканских организациях здравоохранения",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Рентгенография",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 441,
+        "token_estimate": 110,
+        "created_at": "2026-04-18T15:48:30.247883"
+      }
+    },
+    {
+      "id": "I50.1-other-ba4f50843e94",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-ba4f50843e94",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "Алгоритм неотложной помощи: > ⚠️ Экстренная госпитализация в отделение интенсивной терапии. На догоспитальном этапе — лечение основного заболевания, приведшего к ХСН. 1. Диуретики: Фуросемид 40–100 мг в/в струйно 2. Морфин 1%: 1 мл на 10 мл 0,9% раствора хлорида натрия в/в — при тахипноэ и психомоторном возбуждении 3. Оксигенотерапия: Всем пациентам с острой декомпенсацией СН до достижения сатурации ≥95% (≥90% у пациентов с ХОБЛ); при необходимости — через пеногаситель (спирт) 4. Вазодилататоры (при АД ≥90 мм рт.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Алгоритм неотложной",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Экстренная госпитализация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "отделение интенсивной терапии",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "На догоспитальном этапе",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "лечение основного заболевания",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "приведшего",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ХСН",
+            "dosage": ". 1.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Фуросемид",
+            "dosage": "40",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "струйно",
+            "dosage": "2.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Морфин",
+            "dosage": "1%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл на",
+            "dosage": "10 мл",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раствора хлорида натрия",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при тахипноэ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "психомоторном возбуждении",
+            "dosage": "3.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Всем пациентам",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "острой декомпенсацией СН до достижения сатурации",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "пациентов",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при необходимости",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "через пеногаситель",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Вазодилататоры",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 518,
+        "token_estimate": 129,
+        "created_at": "2026-04-18T15:48:30.249119"
+      }
+    },
+    {
+      "id": "I50.1-other-5cec79fdbeca",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-5cec79fdbeca",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "з пеногаситель (спирт) 4. Вазодилататоры (при АД ≥90 мм рт. ст.): - Глицерил тринитрат под язык каждые 15–20 мин под контролем АД - Или в/в: глицерил тринитрат 5–10 мг в 400 мл 0,9% NaCl капельно 2–4 сут, или изосорбид динитрат 20–40 мг в 400 мл 0,9% NaCl капельно 3–5 сут 5. Снижение АД при гипертоническом кризе: - Уропедил 25–50 мг в/в, или каптоприл 25–50 мг, или нифедипин 5–10 мг 6. Сердечные гликозиды (при фибрилляции предсердий): - Строфантин 0,05% раствор 0,3–0.5 мл в 0,9% растворе хлорида натрия в/в, или дигоксин 0,025% раствор 0.5 мл в 0,9% растворе хлорида натрия в/в 7.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "пеногаситель",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Вазодилататоры",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Глицерил тринитрат под язык каждые",
+            "dosage": "15",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мин под контролем АД",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Или",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "глицерил тринитрат",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "0,9%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "капельно",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или изосорбид динитрат",
+            "dosage": "20",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "капельно",
+            "dosage": "3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": "5.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Снижение АД при гипертоническом",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Уропедил",
+            "dosage": "25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или каптоприл",
+            "dosage": "25",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или нифедипин",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг",
+            "dosage": "6.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Сердечные гликозиды",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при фибрилляции",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Строфантин",
+            "dosage": "0,05%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раствор",
+            "dosage": "0,3",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "растворе хлорида натрия",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или дигоксин",
+            "dosage": "0,025%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раствор",
+            "dosage": "0.5 мл",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 585,
+        "token_estimate": 146,
+        "created_at": "2026-04-18T15:48:30.249986"
+      }
+    },
+    {
+      "id": "I50.1-other-e8afd6095ee2",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-e8afd6095ee2",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": "Купирование приступа / Острая фаза",
+        "hierarchy_path": "Купирование приступа / Острая фаза",
+        "content": "0,025% раствор 0.5 мл в 0,9% растворе хлорида натрия в/в 7. Инотропная поддержка (при низком СВ, застое, гипоперфузии, несмотря на вазодилататоры/диуретики): - Добутамин 2–20 мкг/кг/мин (начальная доза 2–3 мкг/кг/мин) - Допамин в/в капельно 5–25 мкг/кг/мин — при САД <90 мм рт. ст. - Левосимендан 50–200 мкг/кг/мин — при САД >90 мм рт. ст. (предпочтительнее)",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "раствор",
+            "dosage": "0.5 мл",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "растворе хлорида натрия",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Инотропная поддержка",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при низком СВ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "застое",
+            "dosage": ", г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ипоперфузии",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "несмотря на",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Добутамин",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "начальная доза",
+            "dosage": "2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Допамин",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "капельно",
+            "dosage": "5",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при САД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ". -",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Левосимендан",
+            "dosage": "50",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ст",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 358,
+        "token_estimate": 89,
+        "created_at": "2026-04-18T15:48:30.250767"
+      }
+    },
+    {
+      "id": "I50.1-monitoring-ab665014f4af",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "monitoring",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-monitoring-ab665014f4af",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "monitoring",
+        "subsection": null,
+        "hierarchy_path": "👁️ Наблюдение",
+        "content": "Длительность терапии: Острая фаза — до стабилизации гемодинамики и купирования отека легких; дальнейшее ведение — по протоколу хронической СН Контрольные параметры: - АД, ЧСС, сатурация кислорода (непрерывно в острой фазе) - Диурез, масса тела - Электролиты (калий, натрий), креатинин, мочевина (в динамике) - ЭКГ (исходно и перед выпиской) - Уровень BNP/NT-proBNP* (по показаниям) - Показатели гемостаза (АЧТВ, МНО, фибриноген) Цели лечения: - Купирование острой левожелудочковой недостаточности - Уменьшение признаков сердечной недостаточности - Достижение ремиссии - Профилактика рецидивов и регоспитализаций Периодичность осмотров: Индивидуально,",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Длительность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Острая фаза",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "до стабилизации гемодинамики",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "купирования отека",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "дальнейшее ведение",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "по протоколу хронической СН Контрольные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АД",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЧСС",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сатурация кислорода",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "непрерывно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "острой",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Диурез",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "масса тела",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Электролиты",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "калий",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "креатинин",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мочевина",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "перед",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Уровень",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Показатели гемостаза",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "АЧТВ",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "МНО",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Цели",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Купирование острой левожелудочковой недостаточности",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Уменьшение признаков сердечной недостаточности",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Достижение ремиссии",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Профилактика рецидивов",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "регоспитализаций Периодичность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Индивидуально",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 650,
+        "token_estimate": 162,
+        "created_at": "2026-04-18T15:48:30.252071"
+      }
+    },
+    {
+      "id": "I50.1-monitoring-903125e39faa",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "monitoring",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-monitoring-903125e39faa",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "monitoring",
+        "subsection": null,
+        "hierarchy_path": "👁️ Наблюдение",
+        "content": "в и регоспитализаций Периодичность осмотров: Индивидуально, в зависимости от тяжести состояния; после выписки — не реже 1 раза в год (амбулаторно) ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "регоспитализаций Периодичность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Индивидуально",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "зависимости от тяжести",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "после выписки",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "не реже",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "раза",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "год",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 150,
+        "token_estimate": 37,
+        "created_at": "2026-04-18T15:48:30.252403"
+      }
+    },
+    {
+      "id": "I50.1-contraindications-3037d1d3d7f8",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "contraindications",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-contraindications-3037d1d3d7f8",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "contraindications",
+        "subsection": null,
+        "hierarchy_path": "⚠️ Противопоказания и ограничения",
+        "content": "- Вазодилататоры: Противопоказаны при САД <90 мм рт. ст. - Инотропные препараты: Выбор зависит от уровня САД: - Допамин — только при САД <90 мм рт. ст. - Добутамин/Левосимендан — при САД >90 мм рт. ст. - Оксигенотерапия: Целевая сатурация ≥90% (не ≥95%) у пациентов с ХОБЛ во избежание гиперкапнии - Сердечные гликозиды: Контроль ЧСС и ЭКГ при назначении; осторожность при нарушении АВ-проводимости - Морфин: Осторожность при угнетении дыхания, брадикардии, тяжелой ХОБЛ ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Противопоказаны при САД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мм рт",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ст",
+            "dosage": ". -",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Инотропные",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Выбор зависит от уровня",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Допамин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "только при САД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Левосимендан",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при САД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Целевая сатурация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "не",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "пациентов",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ХОБЛ во избежание гиперкапнии",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Сердечные",
+            "dosage": "г",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Контроль ЧСС",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЭКГ при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "осторожность при нарушении АВ-проводимости",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Осторожность при угнетении дыхания",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "брадикардии",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "тяжелой ХОБЛ",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Вазодилататоры",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 474,
+        "token_estimate": 118,
+        "created_at": "2026-04-18T15:48:30.253550"
+      }
+    },
+    {
+      "id": "I50.1-other-bdb4a98bf015",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-bdb4a98bf015",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "- BNP/NT-proBNP — мозговой натрийуретический пептид и его N-концевой предшественник (маркеры СН) - КФК — креатинфосфокиназа - АЧТВ — активированное частичное тромбопластиновое время - МНО — международное нормализованное отношение - ХМ ЭКГ — холтеровское мониторирование ЭКГ - ЦГД — чреспищеводная гемодинамика (инвазивный мониторинг) - СВ — сердечный выброс - САД — систолическое артериальное давление - ХОБЛ — хроническая обструктивная болезнь легких - ИБС — ишемическая болезнь сердца - \\* — исследования и консультации доступны в межрайонных (при оснащении),",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "мозговой натрийуретический пептид",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "его",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "концевой предшественник",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "маркеры",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "КФК",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "креатинфосфокиназа",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "АЧТВ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "активированное частичное тромбопластиновое время",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "МНО",
+            "dosage": "ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ждународное нормализованное отношение",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ХМ ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "холтеровское мониторирование ЭКГ",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЦГД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "чреспищеводная гемодинамика",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "инвазивный",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "СВ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сердечный выброс",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "САД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "систолическое артериальное давление",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ХОБЛ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "хроническая обструктивная болезнь легких",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ИБС",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ишемическая болезнь сердца",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "исследования",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "консультации доступны",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "межрайонных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 561,
+        "token_estimate": 140,
+        "created_at": "2026-04-18T15:48:30.254667"
+      }
+    },
+    {
+      "id": "I50.1-other-265c4ac3476a",
+      "vector_metadata": {
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I50.1-other-265c4ac3476a",
+        "source_file": "I50.1.md",
+        "icd10_code": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "section_type": "other",
+        "subsection": null,
+        "hierarchy_path": "📝 Примечания и сокращения",
+        "content": "ания и консультации доступны в межрайонных (при оснащении), областных и республиканских организациях здравоохранения - Важно: Инотропный эффект левосимендана не зависит от бета-адренергической стимуляции — предпочтителен у пациентов, получающих БАБ --- Дата создания заметки: 2026-04-17",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "ания",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "консультации доступны",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "межрайонных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "областных",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "республиканских организациях здравоохранения",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Инотропный эффект левосимендана не зависит от бета-адренергической стимуляции",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "предпочтителен",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "пациентов",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "получающих БАБ",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Дата создания",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология"
+        ],
+        "risk_level": null,
+        "char_count": 286,
+        "token_estimate": 71,
+        "created_at": "2026-04-18T15:48:30.255156"
+      }
+    }
+  ]
+}

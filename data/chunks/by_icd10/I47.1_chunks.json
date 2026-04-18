@@ -1,0 +1,1212 @@
+{
+  "icd10_code": "I47.1",
+  "chunk_count": 8,
+  "chunks": [
+    {
+      "id": "I47.1-other-0a26da59c0c1",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-0a26da59c0c1",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Обязательное обследование",
+        "hierarchy_path": "Обязательное обследование",
+        "content": "1. Биохимическое исследование крови: - Определение концентрации калия - Определение концентрации магния - Холестерин 2. ЭКГ в 12-ти отведениях 3. Консультация врача-кардиолога 4. Эхо-КГ (XM*) 5. ЧПЭФИ (при рецидивах)",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Биохимическое исследование",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Определение концентрации калия",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Определение концентрации магния",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Холестерин",
+            "dosage": "2.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ЭКГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ти отведениях",
+            "dosage": "3.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Консультация врача-кардиолога",
+            "dosage": "4.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эхо-КГ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "ЧПЭФИ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 216,
+        "token_estimate": 54,
+        "created_at": "2026-04-18T15:48:30.137059"
+      }
+    },
+    {
+      "id": "I47.1-other-a3c3ea9e0a22",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-a3c3ea9e0a22",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Дополнительное обследование (по показаниям)",
+        "hierarchy_path": "Дополнительное обследование (по показаниям)",
+        "content": "- Консультация в РНПЦ «Кардиология» (при рецидивах) - ФГДС - Гормоны щитовидной железы (тиреотропный гормон, Т4 свободный) - Липидограмма Кратность обследования: Исходно и по показаниям, но не реже 1 раза в год При рецидивах: консультация в городском/областном кардиологическом диспансере ---",
+        "content_type": "list",
+        "medications": [
+          {
+            "name": "Консультация",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "РНПЦ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "при",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ФГДС",
+            "dosage": "- Г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ормоны щитовидной железы",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "тиреотропный гормон",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Липидограмма Кратность",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Исходно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "по показаниям",
+            "dosage": ",",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "но не реже",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раза",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "год При",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "областном кардиологическом диспансере",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Консультация",
+            "dosage": null,
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:list_item"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 292,
+        "token_estimate": 73,
+        "created_at": "2026-04-18T15:48:30.137827"
+      }
+    },
+    {
+      "id": "I47.1-other-8bad13567a92",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-8bad13567a92",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Купирование приступа",
+        "hierarchy_path": "Купирование приступа",
+        "content": "Лечение проводится в зависимости от: - Длительности пароксизма - Стабильности гемодинамики - Эффективности лекарственных средств в анамнезе Препараты для купирования: 1. Вагусные приемы 2. Верапамил 0,25% раствор 2-4 мл (5-10 мг) внутривенно медленно 3. Метапролол 0,1% раствор: - Первоначально 2,5-5 мл (2,5-5.0 мг со скоростью 1-2 мг/мин) - При необходимости дозу повторить с 5 минутным интервалом до достижения терапевтического эффекта или до 10-15 мг - Максимальная доза — 20 мг - Или метапролол 25-50 мг/сут. внутрь 4. Прокаинамид 500-1000 мг (до 17 мг/кг) внутривенно капельно в течение 10 минут - При угрозе снижения АД — в сочетании с мезатоном 1% - 0,3-0.5 мл 5.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Лечение проводится",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "зависимости",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Длительности пароксизма",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Стабильности гемодинамики",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Эффективности лекарственных средств",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "анамнезе Препараты для",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Вагусные приемы",
+            "dosage": "2.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Верапамил",
+            "dosage": "0,25%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раствор",
+            "dosage": "2-4 мл",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "внутривенно медленно",
+            "dosage": "3. Ме",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "тапролол",
+            "dosage": "0,1%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Первоначально",
+            "dosage": "2,5-5 мл",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мг со скоростью",
+            "dosage": "1-2 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При необходимости дозу повторить",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "минутным интервалом до достижения терапевтического эффекта или до",
+            "dosage": "10-15 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Максимальная доза",
+            "dosage": "20 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Или метапролол",
+            "dosage": "25-50 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "внутрь",
+            "dosage": "4.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Прокаинамид",
+            "dosage": "500-1000 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "до",
+            "dosage": "17 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "внутривенно капельно",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "течение",
+            "dosage": "10",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "минут",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При угрозе снижения АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сочетании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мезатоном",
+            "dosage": "1%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "5.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "5-10 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:parentheses"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 671,
+        "token_estimate": 167,
+        "created_at": "2026-04-18T15:48:30.139155"
+      }
+    },
+    {
+      "id": "I47.1-other-cf8b97456aaa",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-cf8b97456aaa",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Купирование приступа",
+        "hierarchy_path": "Купирование приступа",
+        "content": "зе снижения АД — в сочетании с мезатоном 1% - 0,3-0.5 мл 5. Пропафенон 0,5-1 мг/кг в/венно за 10-20 минут - При необходимости дозу повторить суммарно до 2 мг/кг в/венно 6. Пропафенон 150-300 мг однократно - При необходимости повторно через 1-2 часа - При отсутствии структурной патологии сердца + бета-блокатор (метопролол 25-50 мг, бисопролол 2,5-5 мг) 1. Этацизин 50-100 мг однократно - При необходимости повторно через 1-2 часа - При отсутствии структурной патологии сердца + бета-блокатор (метопролол 25-50 мг, бисопролол 2,5-5 мг) 8. Трифосаденин (аденозин-трифосфат) 1% раствор 1-2 мл (10-20 мг) - Противопоказан при остром коронарном синдроме/остром инфаркте миокарда и бронхиальной астме 9.",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "зе снижения АД",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сочетании",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мезатоном",
+            "dosage": "1%",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мл",
+            "dosage": "5.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Пропафенон",
+            "dosage": "0,5-1 мг",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "кг",
+            "dosage": "",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "енно за",
+            "dosage": "10-20",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "минут",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При необходимости дозу повторить суммарно до",
+            "dosage": "2 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "енно",
+            "dosage": "6.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Пропафенон",
+            "dosage": "150-300 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "однократно",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При необходимости повторно через",
+            "dosage": "1-2",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "часа",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При отсутствии структурной патологии сердца",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бета-блокатор",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "метопролол",
+            "dosage": "25-50 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бисопролол",
+            "dosage": "2,5-5 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Этацизин",
+            "dosage": "50-100 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Трифосаденин",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "аденозин",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "раствор",
+            "dosage": "1-2 мл",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Противопоказан при остром коронарном",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "остром инфаркте миокарда",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бронхиальной астме",
+            "dosage": "9.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мл",
+            "dosage": "10-20 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:parentheses"
+          }
+        ],
+        "keywords": [
+          "Инфаркт"
+        ],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 698,
+        "token_estimate": 174,
+        "created_at": "2026-04-18T15:48:30.140108"
+      }
+    },
+    {
+      "id": "I47.1-other-8be0bde8a5c8",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-8be0bde8a5c8",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Купирование приступа",
+        "hierarchy_path": "Купирование приступа",
+        "content": "м синдроме/остром инфаркте миокарда и бронхиальной астме 9. Аденозин 6 мг внутривенно болюсом - При неэффективности — повторно 12 мг внутривенно болюсом - Противопоказан при остром коронарном синдроме/остром инфаркте миокарда и бронхиальной астме 10. Амиодарон 300 мг (5 мг/кг) в течение 20 минут - При неэффективности перечисленного выше - Затем внутривенно капельно из расчета до 1000-1200 мг/сут 11. Электроимпульсная терапия (ЭИТ) 50-360 Дж",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "остром инфаркте миокарда",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "бронхиальной астме",
+            "dosage": "9.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Аденозин",
+            "dosage": "6 мг",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "болюсом",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "При неэффективности",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "повторно",
+            "dosage": "12 мг",
+            "route": "в/в",
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Противопоказан при остром коронарном",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "бронхиальной астме",
+            "dosage": "10.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Амиодарон",
+            "dosage": "300 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "течение",
+            "dosage": "20",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "минут",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "При неэффективности перечисленного выше",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Затем внутривенно капельно из расчета до",
+            "dosage": "1000-1200 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут",
+            "dosage": "11.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Электроимпульсная терапия",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [
+          "Инфаркт"
+        ],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 444,
+        "token_estimate": 111,
+        "created_at": "2026-04-18T15:48:30.140640"
+      }
+    },
+    {
+      "id": "I47.1-other-58f3de225825",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-58f3de225825",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Профилактика приступов",
+        "hierarchy_path": "Профилактика приступов",
+        "content": "Подбор эффективного лекарственного средства: 1. Метопролол 25-200 мг/сут 2. Бисопролол 2,5-10 мг/сут 3. Бетаксолол 5-40 мг/сут внутрь 4. Соталол 80-320 мг/сут под контролем QT (не выше 500 мсек. или увеличение не более 25% от исходного значения) 5. Пропафенон 450-600 мг/сут внутрь при отсутствии структурной патологии сердца 6. Эташизин 150-200 мг/сут при отсутствии структурной патологии сердца 7. Пропранолол 30-120 мг/сут внутрь 8. Верапамил 120-360 мг/сут внутрь ---",
+        "content_type": "algorithm",
+        "medications": [
+          {
+            "name": "Подбор эффективного лекарственного",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Метопролол",
+            "dosage": "25-200 мг",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут",
+            "dosage": "2.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Бисопролол",
+            "dosage": "2,5-10 мг",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут",
+            "dosage": "3.",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Бетаксолол",
+            "dosage": "5-40 мг",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "4.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Соталол",
+            "dosage": "80-320 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут под контролем",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "не выше",
+            "dosage": "500",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "мсек",
+            "dosage": ".",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "или увеличение не более",
+            "dosage": "25%",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "от исходного",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Пропафенон",
+            "dosage": "450-600 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь при отсутствии структурной патологии сердца",
+            "dosage": "6.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Эташизин",
+            "dosage": "150-200 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут при отсутствии структурной патологии сердца",
+            "dosage": "7.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Пропранолол",
+            "dosage": "30-120 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "8.",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "Верапамил",
+            "dosage": "120-360 мг",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "сут внутрь",
+            "dosage": "---",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 471,
+        "token_estimate": 117,
+        "created_at": "2026-04-18T15:48:30.141276"
+      }
+    },
+    {
+      "id": "I47.1-other-a4dbc63d4cea",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-other-a4dbc63d4cea",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "other",
+        "subsection": "Длительность терапии",
+        "hierarchy_path": "Длительность терапии",
+        "content": "Поддерживающая терапия: - Длительность: 3-5 дней после купирования пароксизма - При редких пароксизмах: далее в зависимости от основного заболевания и частоты рецидивов",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Поддерживающая",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "дней после купирования пароксизма",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "При редких",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "далее",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "зависимости от основного заболевания",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "частоты",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          }
+        ],
+        "keywords": [],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 168,
+        "token_estimate": 42,
+        "created_at": "2026-04-18T15:48:30.141954"
+      }
+    },
+    {
+      "id": "I47.1-contraindications-87c66f41ce54",
+      "vector_metadata": {
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "contraindications",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null
+      },
+      "payload": {
+        "chunk_id": "I47.1-contraindications-87c66f41ce54",
+        "source_file": "I47.1.md",
+        "icd10_code": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "section_type": "contraindications",
+        "subsection": null,
+        "hierarchy_path": "⚠️ Противопоказания",
+        "content": "Структурная патология сердца (противопоказание для назначения препаратов класса 1C): - Перенесенный инфаркт миокарда - Стенокардия - Гипертрофия миокарда ЛЖ > 14 мм - Наличие дилатации ЛЖ и снижения ФВ < 40% ---",
+        "content_type": "text",
+        "medications": [
+          {
+            "name": "Структурная патология сердца",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "противопоказание для назначения препаратов класса",
+            "dosage": "1",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Перенесенный инфаркт миокарда",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Стенокардия",
+            "dosage": "- Г",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "ипертрофия миокарда ЛЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "мм",
+            "dosage": "-",
+            "route": null,
+            "frequency": null,
+            "notes": null
+          },
+          {
+            "name": "Наличие дилатации ЛЖ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          },
+          {
+            "name": "снижения ФВ",
+            "dosage": "",
+            "route": null,
+            "frequency": null,
+            "notes": "extracted_via:standard"
+          }
+        ],
+        "keywords": [
+          "Инфаркт",
+          "Стенокардия"
+        ],
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "risk_level": null,
+        "char_count": 211,
+        "token_estimate": 52,
+        "created_at": "2026-04-18T15:48:30.142644"
+      }
+    }
+  ]
+}
