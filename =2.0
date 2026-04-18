@@ -1,0 +1,31 @@
+Collecting pyyaml
+  Using cached pyyaml-6.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.4 kB)
+Collecting python-frontmatter
+  Downloading python_frontmatter-1.1.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting pydantic
+  Downloading pydantic-2.13.2-py3-none-any.whl.metadata (108 kB)
+     ━━━━━━━━━━━━ 108.5/108.5  1.7 MB/s eta 0:00:00
+                  kB                               
+Collecting annotated-types>=0.6.0 (from pydantic)
+  Downloading annotated_types-0.7.0-py3-none-any.whl.metadata (15 kB)
+Collecting pydantic-core==2.46.2 (from pydantic)
+  Downloading pydantic_core-2.46.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.6 kB)
+Collecting typing-extensions>=4.14.1 (from pydantic)
+  Using cached typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting typing-inspection>=0.4.2 (from pydantic)
+  Downloading typing_inspection-0.4.2-py3-none-any.whl.metadata (2.6 kB)
+Downloading pyyaml-6.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (807 kB)
+   ━━━━━━━━━━━━━ 807.9/807.9   1.0 MB/s eta 0:00:00
+                 kB                                
+Downloading python_frontmatter-1.1.0-py3-none-any.whl (9.8 kB)
+Downloading pydantic-2.13.2-py3-none-any.whl (471 kB)
+   ━━━━━━━━━━━━━ 471.9/471.9   2.5 MB/s eta 0:00:00
+                 kB                                
+Downloading pydantic_core-2.46.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━ 2.1/2.1 MB 2.0 MB/s eta 0:00:00
+Downloading annotated_types-0.7.0-py3-none-any.whl (13 kB)
+Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+   ━━━━━━━━━━━━━━ 44.6/44.6 kB 1.6 MB/s eta 0:00:00
+Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+Installing collected packages: typing-extensions, pyyaml, annotated-types, typing-inspection, python-frontmatter, pydantic-core, pydantic
+Successfully installed annotated-types-0.7.0 pydantic-2.13.2 pydantic-core-2.46.2 python-frontmatter-1.1.0 pyyaml-6.0.3 typing-extensions-4.15.0 typing-inspection-0.4.2

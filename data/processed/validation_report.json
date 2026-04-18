@@ -1,0 +1,370 @@
+{
+  "generated_at": "2026-04-18T15:06:25.851844",
+  "summary": {
+    "total_files": 16,
+    "valid_files": 14,
+    "invalid_files": 2,
+    "total_errors": 2,
+    "success_rate": "87.5%"
+  },
+  "details": [
+    {
+      "file_path": "I20.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I20.0",
+        "diagnosis": "Нестабильная стенокардия",
+        "icd10_code": "I20.0",
+        "protocol_name": "Клинический протокол диагностики и лечения инфаркта миокарда, нестабильной стенокардии",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I47.1.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I47.1",
+        "diagnosis": "Наджелудочковая тахикардия",
+        "icd10_code": "I47.1",
+        "protocol_name": "Диагностика и лечение пациентов с тахикардией в амбулаторных условиях",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "https://pravo.by/",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "тахикардия"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I50.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I50.0",
+        "diagnosis": "Застойная сердечная недостаточность (болезнь сердца застойного характера, правожелудочковая недостаточность, вторичная по отношению к левожелудочковой сердечной недостаточности)",
+        "icd10_code": "I50.0",
+        "protocol_name": "Клинический протокол диагностики и лечения заболеваний, осложненных сердечной недостаточностью",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "https://pravo.by",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I47.2.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [
+        "Missing sections: ['📋 Общая информация']"
+      ],
+      "extracted_fields": {
+        "id": "I47.2",
+        "diagnosis": "Желудочковая тахикардия",
+        "icd10_code": "I47.2",
+        "protocol_name": "Лечение желудочковой тахикардии",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Не указано",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "аритмия"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I12.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I12.0",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением почек с почечной недостаточностью",
+        "icd10_code": "I12.0",
+        "protocol_name": "Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "нефрология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I10.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I10.0",
+        "diagnosis": "Эссенциальная (первичная) гипертензия / Артериальная гипертензия I–III ст.",
+        "icd10_code": "I10.0",
+        "protocol_name": "Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I13.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I13.0",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью",
+        "icd10_code": "I13.0",
+        "protocol_name": "Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "нефрология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I15.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I15.0",
+        "diagnosis": "Реноваскулярная гипертензия (фибро-мускулярная дисплазия, неспецифический аортоартериит)",
+        "icd10_code": "I15.0",
+        "protocol_name": "Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I50.1.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I50.1",
+        "diagnosis": "Левожелудочковая недостаточность (острый отек легкого, сердечная астма)",
+        "icd10_code": "I50.1",
+        "protocol_name": "Клинический протокол диагностики и лечения заболеваний, осложненных сердечной недостаточностью",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "https://pravo.by",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I49.4.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I49.4",
+        "diagnosis": "Другая и неуточнённая преждевременная деполяризация (экстрасистолия)",
+        "icd10_code": "I49.4",
+        "protocol_name": "Клинический протокол диагностики и лечения тахикардии и нарушений проводимости",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "аритмия"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I13.2.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I13.2",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца и почек с застойной сердечной недостаточностью и почечной недостаточностью",
+        "icd10_code": "I13.2",
+        "protocol_name": "Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "нефрология",
+          "артериальная гипертензия с поражением сердца и почек",
+          "амбулаторная и стационарная помощь"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I49.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I49.0",
+        "diagnosis": "Фибрилляция и трепетание желудочков",
+        "icd10_code": "I49.0",
+        "protocol_name": "Клинический протокол диагностики и лечения тахикардии и нарушений проводимости",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "реаниматология",
+          "аритмия",
+          "дефибрилляция"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I22.md",
+      "is_valid": false,
+      "errors": [
+        "Pattern mismatch: icd10_code"
+      ],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I22.-",
+        "diagnosis": "Повторный инфаркт миокарда",
+        "icd10_code": "I22.-",
+        "protocol_name": "Клинический протокол диагностики и лечения инфаркта миокарда, нестабильной стенокардии",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I21.md",
+      "is_valid": false,
+      "errors": [
+        "Pattern mismatch: icd10_code"
+      ],
+      "warnings": [
+        "id != icd10_code"
+      ],
+      "extracted_fields": {
+        "id": "I21",
+        "diagnosis": "Острый инфаркт миокарда",
+        "icd10_code": "I21.-",
+        "protocol_name": "Клинический протокол диагностики и лечения инфаркта миокарда, нестабильной стенокардии",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I11.0.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I11.0",
+        "diagnosis": "Артериальная гипертензия с преимущественным поражением сердца с (застойной) сердечной недостаточностью",
+        "icd10_code": "I11.0",
+        "protocol_name": "Клинический протокол диагностики и лечения болезней, характеризующихся повышенным кровяным давлением",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    },
+    {
+      "file_path": "I48.md",
+      "is_valid": true,
+      "errors": [],
+      "warnings": [],
+      "extracted_fields": {
+        "id": "I48",
+        "diagnosis": "Фибрилляция и трепетание предсердий",
+        "icd10_code": "I48",
+        "protocol_name": "Клинический протокол диагностики и лечения тахикардии и нарушений проводимости",
+        "protocol_number": "№ 59",
+        "publish_date": "06.06.2017",
+        "official_url": "Министерство здравоохранения Республики Беларусь",
+        "status": "active",
+        "tags": [
+          "кардиология",
+          "аритмия",
+          "кардиоверсия"
+        ],
+        "verification_status": "unverified"
+      },
+      "missing_required": []
+    }
+  ]
+}
