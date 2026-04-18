@@ -1,4 +1,5 @@
 # src/chunking/hierarchical_chunker.py
+import re
 from typing import List, Optional, Iterator
 from src.models.chunk import ProtocolChunk, Medication
 from src.preprocessing.text_normalizer import TextNormalizer
