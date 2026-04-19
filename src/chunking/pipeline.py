@@ -1,103 +1,76 @@
 # src/chunking/pipeline.py
 import json
 from pathlib import Path
-from typing import Iterator, List
-from src.ingestion.models import ParsedProtocol
-from src.chunking.hierarchical_chunker import HierarchicalChunker
-from src.models.chunk import ProtocolChunk
+from typing import List
+from src.chunking.simple_chunker import SimpleChunker
+from src.models.chunk import SimpleChunk
 import logging
 
 logger = logging.getLogger(__name__)
 
-class ChunkingPipeline:
-    """Оркестрирует процесс чанкинга для всех протоколов"""
+class SimpleChunkingPipeline:
+    """Оркестрация простого чанкинга"""
     
-    def __init__(self, output_dir: str = "data/chunks", **chunker_kwargs):
+    def __init__(self, output_dir: str = "data/chunks"):
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        self.chunker = HierarchicalChunker(**chunker_kwargs)
     
     def process_protocols(self, protocols_path: str) -> dict:
-        """
-        Загружает распарсенные протоколы и генерирует чанки.
-        
-        Returns:
-            dict со статистикой и путями к выходным файлам
-        """
-        # Загружаем данные из Шага 1
+        """Загружает протоколы и генерирует чанки"""
         with open(protocols_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        all_chunks: List[ProtocolChunk] = []
-        stats = {
-            "total_protocols": 0,
-            "total_chunks": 0,
-            "chunks_by_section": {},
-            "chunks_with_medications": 0
-        }
+        chunks: List[SimpleChunk] = []
+        stats = {"total_protocols": 0, "total_chunks": 0, "by_section": {}}
         
-        for protocol_data in data.get("protocols", []):
+        for proto in data.get("protocols", []):
             stats["total_protocols"] += 1
+            meta = proto["metadata"]
             
-            # Создаём чанки
-            chunks = list(self.chunker.chunk_protocol(
-                source_file=protocol_data["source_file"],
-                icd10_code=protocol_data["metadata"]["icd10_code"],
-                diagnosis=protocol_data["metadata"]["diagnosis"],
-                sections=protocol_data["sections"],
-                tags=protocol_data["metadata"].get("tags", [])
-            ))
+            for chunk in SimpleChunker.chunk_protocol(
+                source_file=proto["source_file"],
+                icd10_code=meta["icd10_code"],
+                diagnosis=meta["diagnosis"],
+                sections=proto["sections"],
+                tags=meta.get("tags", [])
+            ):
+                chunks.append(chunk)
+                sec = chunk.section_type
+                stats["by_section"][sec] = stats["by_section"].get(sec, 0) + 1
             
-            # Обновляем статистику
-            for chunk in chunks:
-                all_chunks.append(chunk)
-                sec_type = chunk.section_type
-                stats["chunks_by_section"][sec_type] = stats["chunks_by_section"].get(sec_type, 0) + 1
-                if chunk.medications:
-                    stats["chunks_with_medications"] += 1
-            
-            stats["total_chunks"] += len(chunks)
-            logger.info(f"{protocol_data['metadata']['icd10_code']}: {len(chunks)} чанков")
+            stats["total_chunks"] += 1
+            logger.info(f"{meta['icd10_code']}: +{len([c for c in chunks if c.icd10_code == meta['icd10_code']])} чанков")
         
-        # Сохраняем результаты
-        return self._save_chunks(all_chunks, stats)
+        return self._save(chunks, stats)
     
-    def _save_chunks(self, chunks: List[ProtocolChunk], stats: dict) -> dict:
-        """Сохраняет чанки в разных форматах"""
-        results = {}
-        
-        # 1. Единый JSON со всеми чанками
+    def _save(self, chunks: List[SimpleChunk], stats: dict) -> dict:
+        """Сохраняет чанки в JSON"""
+        # Все чанки в одном файле
         all_path = self.output_dir / "all_chunks.json"
         with open(all_path, 'w', encoding='utf-8') as f:
             json.dump({
-                "generated_at": stats.get("generated_at"),
-                "total_chunks": len(chunks),
+                "total": len(chunks),
                 "chunks": [c.to_vector_record() for c in chunks]
             }, f, ensure_ascii=False, indent=2)
-        results["all_chunks"] = str(all_path)
         
-        # 2. По кодам МКБ-10 (для инкрементального обновления)
-        by_icd10_dir = self.output_dir / "by_icd10"
-        by_icd10_dir.mkdir(exist_ok=True)
+        # По МКБ-10 для инкрементальных обновлений
+        by_code_dir = self.output_dir / "by_icd10"
+        by_code_dir.mkdir(exist_ok=True)
         
-        chunks_by_code = {}
-        for chunk in chunks:
-            if chunk.icd10_code not in chunks_by_code:
-                chunks_by_code[chunk.icd10_code] = []
-            chunks_by_code[chunk.icd10_code].append(chunk)
+        from collections import defaultdict
+        grouped = defaultdict(list)
+        for c in chunks:
+            grouped[c.icd10_code].append(c)
         
-        for icd10, code_chunks in chunks_by_code.items():
-            fp = by_icd10_dir / f"{icd10}_chunks.json"
+        for code, code_chunks in grouped.items():
+            fp = by_code_dir / f"{code}.json"
             with open(fp, 'w', encoding='utf-8') as f:
                 json.dump({
-                    "icd10_code": icd10,
-                    "chunk_count": len(code_chunks),
+                    "icd10_code": code,
+                    "count": len(code_chunks),
                     "chunks": [c.to_vector_record() for c in code_chunks]
                 }, f, ensure_ascii=False, indent=2)
         
-        results["by_icd10_dir"] = str(by_icd10_dir)
-        results["stats"] = stats
-        
-        logger.info(f"✅ Создано {len(chunks)} чанков из {stats['total_protocols']} протоколов")
-        return results
+        logger.info(f"✅ Сохранено {len(chunks)} чанков")
+        return {"all_chunks": str(all_path), "by_icd10": str(by_code_dir), "stats": stats}
 
