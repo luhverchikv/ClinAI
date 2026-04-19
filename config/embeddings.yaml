@@ -1,0 +1,33 @@
+# config/embeddings.yaml
+# Выбор модели зависит от доступных ресурсов. Рекомендуется тестировать на вашем датасете.
+
+embeddings:
+  default: "light"  # Модель, используемая если не указан параметр --model
+  
+  models:
+    light:
+      repo: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+      device: "cpu"
+      batch_size: 4
+      min_ram_mb: 500
+      description: "⚡ Легкая модель (~120 МБ). CPU-оптимизирована. Подходит для VPS с 1-2 ГБ ОЗУ."
+    
+    balanced:
+      repo: "intfloat/multilingual-e5-base"
+      device: "auto"  # Авто-выбор: GPU если доступен, иначе CPU
+      batch_size: 8
+      min_ram_mb: 2000
+      description: "⚖️ Сбалансированная модель (~1.1 ГБ). Высокое мультиязычное качество. Требуется 2+ ГБ ОЗУ."
+    
+    high_quality:
+      repo: "intfloat/multilingual-e5-large"
+      device: "auto"
+      batch_size: 16
+      min_ram_mb: 4000
+      description: "🏆 SOTA модель (~2.2 ГБ). Лучшее понимание медицинских контекстов. Требуется GPU или 4+ ГБ ОЗУ."
+
+  settings:
+    normalize_embeddings: true
+    show_progress: true
+    cache_dir: ".cache/huggingface"  # Кэш моделей (можно вынести на отдельный диск)
+
