@@ -38,7 +38,7 @@ class SimpleChunkingPipeline:
                 sec = chunk.section_type
                 stats["by_section"][sec] = stats["by_section"].get(sec, 0) + 1
             
-            stats["total_chunks"] += 1
+            stats["total_chunks"] = len(chunks)
             logger.info(f"{meta['icd10_code']}: +{len([c for c in chunks if c.icd10_code == meta['icd10_code']])} чанков")
         
         return self._save(chunks, stats)
